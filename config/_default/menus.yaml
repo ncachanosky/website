@@ -7,20 +7,23 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: Papers
+    url: 'papers/'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Books
+    url: 'books/'
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: Macro with Python
+    url: 'https://macro-with-python.netlify.app/'
     weight: 40
-  - name: Publications
+  - name: El Hub Económico
     url: '#featured'
     weight: 50
-  - name: Contact
-    url: '#contact'
+  - name: Blog
+    url: 'https://www.elhubeconomico.com/'
+    weight: 60
+  - name: FMI Graduate Seminar
+    url: 'FMI/'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.

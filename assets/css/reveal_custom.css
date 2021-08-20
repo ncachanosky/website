@@ -1,0 +1,40 @@
+/*
+.left-column {
+    width: 20%;
+    height: 92%;
+    float: left;
+}
+
+.left-column h2:last-of-type, .left-column h3:last-child {
+      color: #000;
+}
+
+.right-column {
+    width: 75%;
+    float: right;
+    padding-top: 1em;
+}
+*/
+
+#left {
+    left:10.30%;
+    text-align: left;
+    float: left;
+    width:30%;
+    z-index:-10;
+  }
+  
+#right {
+    left:31.25%;
+    top: 75px;
+    float: right;
+    text-align: left;
+    z-index:-10;
+    width:70%;
+  }
+
+#black{ color: black; }
+#blue{ color: #00447c; }
+#red{ color: #d11242; }
+#grey{ color: #717073; }
+#white{ color: white; }
