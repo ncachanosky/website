@@ -29,7 +29,7 @@ ncachano@msudenver.edu
 ## Agenda
 
 1. A history of roadblocks
-2. Finance: A way
+2. Finance: A way out
 3. The production function
 3. Extension 1: ABCT
 4. Extension 2: Reswitching
