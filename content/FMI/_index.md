@@ -13,6 +13,8 @@ Under construction ...
 
 ---
 
+{{< figure src="https://www.depts.ttu.edu/freemarketinstitute/about/fmi-ttu_logo.jpg" width="50%" height="50%" >}}
+
 ![FMI](https://www.depts.ttu.edu/freemarketinstitute/about/fmi-ttu_logo.jpg)
 
 # Current issues on capital theory and populism
