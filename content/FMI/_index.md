@@ -15,8 +15,6 @@ Under construction ...
 
 {{< figure src="https://www.depts.ttu.edu/freemarketinstitute/about/fmi-ttu_logo.jpg" width="50%" height="50%" >}}
 
-![FMI](https://www.depts.ttu.edu/freemarketinstitute/about/fmi-ttu_logo.jpg)
-
 # Current issues on capital theory and populism
 
 This graduate seminar is divided in two sections. The **first** one discusses the history of capital theory with particular emphasis on the problem of the period of production. The seminar emphasizes recent applications of finance to the field of capital theory. The topic then explores potential areas of research that connect capital theory with other active fields.
