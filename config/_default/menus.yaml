@@ -17,10 +17,10 @@ main:
     url: 'https://macro-with-python.netlify.app/'
     weight: 40
   - name: El Hub Económico
-    url: '#featured'
+    url: 'https://www.elhubeconomico.com/'
     weight: 50
   - name: Blog
-    url: 'https://www.elhubeconomico.com/'
+    url: 'https://puntodevistaeconomico.com/'
     weight: 60
   - name: FMI Graduate Seminar
     url: 'FMI/'
