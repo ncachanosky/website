@@ -10,7 +10,7 @@ slides:
   highlight_style: github
   reveal_options:
     hash: true
-    #slideNumber: true
+    slideNumber: true
 ---
 
 {{< slide background-color="#00447c" >}}
