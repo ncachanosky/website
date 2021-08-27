@@ -1,0 +1,25 @@
+.blue { color: #00447c; }
+.red { color: #d11242; }
+.grey { color: #717073; }
+
+a:hover {
+    text-decoration: underline;
+    color: #d11242
+}
+
+.fancy-button-blue {
+    border: 1px solid #00447c;
+    border-radius: 0.2rem;
+    color:#00447c;
+    padding: 5px .4rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 0.9;
+}
+
+.fancy-button-blue:hover {
+    color: white;
+    background-color:#00447c;
+}
