@@ -549,3 +549,137 @@ Summary
 <!-- SLIDE 27 -->
 {{< slide background-color="#717073" >}}
 ## Finance: A way out
+
+---
+<!-- SLIDE 28 -->
+<div class="head_1"><p data-markdown>
+### FINANCE: A WAY OUT
+</p></div>
+
+<div class="head_2"><p data-markdown>
+**WHY FINANCE?**
+</p></div>
+
+<div class="text"><p data-markdown>
+Go back to the beginning
+
+* Put yourself in the shows of an investor
+* Investment decisions are decided based on free-cash-flow (FCF) evaluation
+* If a formal model is consistent, then a financial interpretation should predict the same outcome than the theory
+* Many business cycles occur through the financial markets, therefore a financial interpretation of business cycles should be useful
+
+</p></div>
+
+---
+<!-- SLIDE 29 -->
+<div class="head_1"><p data-markdown>
+### FINANCE: A WAY OUT
+</p></div>
+
+<div class="head_2"><p data-markdown>
+WHY FINANCE? | **FCF**
+</p></div>
+
+<div class="text"><p data-markdown>
+Think like an investor
+
+* Let there be $n$ different projects
+* Let $FCF = NOPAT - I$
+* The **expected** value of each project in $t=0$ is
+  * $CV_0 = \sum_{0}^{T \rightarrow \infty} = \frac{FCF_t}{(1+i)^t}$
+* Investment projects are:
+  * Forward-looking
+  * Measured in (expected) market values
+  * Valued at the cost of opportunity
+
+</p></div>
+
+---
+<!-- SLIDE 30 -->
+<div class="head_1"><p data-markdown>
+### FINANCE: A WAY OUT
+</p></div>
+
+<div class="head_2"><p data-markdown>
+WHY FINANCE? | FCF | **EVA**
+</p></div>
+
+<div class="text"><p data-markdown>
+Where is the financial capital?
+
+* Let $W$ represent the amount invested in the project
+* Then:
+  * $CV_0 = \sum_{0}^{T \rightarrow \infty} = \frac{FCF_t}{(1+i)^t}$
+  * do some math-magic...
+  * $CV_0 = W_0 + \sum_{t=1}^{\infty} \frac{EVA_t}{(1+i)^t}$
+  * $CV_0 = W_0 + \sum_{t=1}^{\infty} \frac{(ROIC_t - i)W_{t-1}}{(1+i)^t}$
+  * $CV_0 = W_0 + MVA$
+</p></div>
+
+---
+<!-- SLIDE 31 -->
+<div class="head_1"><p data-markdown>
+### FINANCE: A WAY OUT
+</p></div>
+
+<div class="head_2"><p data-markdown>
+WHY FINANCE? | FCF | **EVA**
+</p></div>
+
+<div class="text"><p data-markdown>
+APP
+
+* Macaulay duration $(D)$ is the financial equivalent of APP
+  * The average time it takes for the cash-flow to produce $1
+  * $CV = W_0 + \sum_{t=1}{\infty} \frac{EVA_t}{(1+i)^t}$
+  * $D = APP = \frac{\sum_{t=1}^{\infty} \frac{t \cdot EVA_t}{(1+i)^t}}{CV}$
+* Modified duration $(MD)$
+  * Semi-elasticity of $CV$ with respect to $i$
+  * $MD = \frac{D}{1 + YTM}$
+* In continuous time
+  * $D = MD$
+
+---
+<!-- SLIDE 32 -->
+<div class="head_1"><p data-markdown>
+### FINANCE: A WAY OUT
+</p></div>
+
+<div class="head_2"><p data-markdown>
+WHY FINANCE? | FCF | **EVA**
+</p></div>
+
+<div class="text"><p data-markdown>
+APP (cont...)
+
+* What do we know?
+  * $D = APP = \frac{\sum_{t=1}^{\infty} \frac{t \cdot EVA_t}{(1+i)^t}}{CV}$
+  * $D$ is a **finite** number *even if* $T \rightarrow \infty$. Why?
+  * Properties of $D$:
+    * Forward-looking
+    * A function of market values
+    * Has a time variable
+    * Has a financial capital variable
+  * Let two projects have same $T$ but different $W$
+    * $D_{HR} > D_{LR}$ 
+  * Let two projects have same $W$ but different $T$
+    * $D_{HR} > D_{LR}$
+
+---
+<!-- SLIDE 32 -->
+<div class="head_1"><p data-markdown>
+### FINANCE: A WAY OUT
+</p></div>
+
+<div class="head_2"><p data-markdown>
+WHY FINANCE? | FCF | **EVA**
+</p></div>
+
+<div class="text"><p data-markdown>
+Some implications
+
+* APP
+  * Grounded in the well-known and widespread used financial concept of Macaulay duration
+* Capital intensity
+  * $K/L$ is untenable
+  * Capital *intensity* is the size of $W$

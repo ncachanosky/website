@@ -76,4 +76,4 @@ In this website you can find information about my research and projects. I also 
 
 ---
 
-{{<icon name="file-download" pack="fas">}} [Download my CV](media/cv.pdf)
+{{<icon name="file-download" pack="fas">}} [Download my CV](../../../static/uploads/cv.pdf)
