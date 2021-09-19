@@ -70,7 +70,7 @@ email: "ncachanosky@outlook.com"
 highlight_name: false
 ---
 
-I'm an **Associate Professor** of Economics at [Metropolitan State University of Denver](http://www.msudenver.edu/) (MSU Denver) Department of Economics, **Senior Fellow** at the [American Institute of Economic Research](http://www.aier.org/) (AIER), and Fellow of the [UCEMA Friedman-Hayek Center for the Study of a Free Society](https://ucema.edu.ar/friedman-hayek-center). I also serve as **co-editor** of [LIBERTAS: Segunda Época](http://www.journallibertas.com/), in the **Board of Directors** of The [Mont Pelerin Society](https://www.montpelerin.org/), and as **President** of the [Association of Private Enterprise Education](https://www.apee.org/) (APEE).
+I'm an **Associate Professor** of Economics at [Metropolitan State University of Denver](http://www.msudenver.edu/) (MSU Denver) Department of Economics, **Senior Fellow** at the [American Institute of Economic Research](http://www.aier.org/) (AIER), and **Fellow** of the [UCEMA Friedman-Hayek Center for the Study of a Free Society](https://ucema.edu.ar/friedman-hayek-center). I also serve as **co-editor** of [LIBERTAS: Segunda Época](http://www.journallibertas.com/), in the **Board of Directors** of The [Mont Pelerin Society](https://www.montpelerin.org/), and as **President** of the [Association of Private Enterprise Education](https://www.apee.org/) (APEE).
 
 In this website you can find information about my research and projects. I also blog at [Punto de Vista Económico](http://puntodevistaeconomico.wordpress.com/) with [Adrián O. Ravier](http://adrianravier.com/), [Martín Krause](http://works.bepress.com/martin_krause/), and [Gabriel J. Zanotti](http://gabrielzanotti.com/).
 
