@@ -7,15 +7,9 @@ header:
   image: ""
 ---
 
-{{% callout warning %}}
-Under construction ...
-{{% /callout %}}
-
----
-
 {{< figure src="https://www.depts.ttu.edu/freemarketinstitute/about/fmi-ttu_logo.jpg" width="50%" height="50%" >}}
 
-# Current issues on capital theory and populism
+## Current issues on capital theory and populism
 
 This graduate seminar is divided in two sections. The **first** one discusses the history of capital theory with particular emphasis on the problem of the period of production. The seminar emphasizes recent applications of finance to the field of capital theory. The topic then explores potential areas of research that connect capital theory with other active fields.
 
@@ -23,25 +17,25 @@ The **second** section looks at the literature studying the recent rise of the l
 
 ---
 
-# Capital theory
+## Capital theory
 
-## Meeting 1
+### Meeting 1
 
-### Capital theory: History of an idea
+#### Capital theory: History of an idea
 
 {{< icon name="calendar-check" >}} | Thursday, September 23, 2021  
 {{< icon name="clock"          >}} | 6:15PM - 7:45PM (local time)  
-{{< icon name="map"            >}} | TBD
+{{< icon name="map"            >}} | Administration 244
 
-## Meeting 2
+### Meeting 2
 
-### Capital theory: Discussion and research areas
+#### Capital theory: Discussion and research areas
 
 {{< icon name="calendar-check" >}} | Thursday, October 7, 2021  
 {{< icon name="clock"          >}} | 6:15PM - 7:45PM (local time)  
-{{< icon name="map"            >}} | TBD
+{{< icon name="map"            >}} | Administration 244
 
-### Reading list
+#### Reading list
 
 1. Cachanosky, N. (2015). [Expectation in Austrian business cycle theory: Market share matters](Cachanosky,%20N.%20-%202015%20-%20Expectations%20in%20Austrian%20Business%20Cycle%20Theory%20(Market%20Share%20Matters)%20[Author]%20(.).pdf). *The Review of Austrian Economics*, 28(2), 151–165.
 
@@ -63,25 +57,25 @@ The **second** section looks at the literature studying the recent rise of the l
 
 ---
 
-# Populism
+## Populism
 
-## Meeting 3
+### Meeting 3
 
-### Populism: Recent research
+#### Populism: Recent research
 
 {{< icon name="calendar-check" >}} | Thursday, October 21, 2021  
 {{< icon name="clock"          >}} | 6:15PM - 7:45PM (local time)  
 {{< icon name="map"            >}} | TBD
 
-## Meeting 4
+### Meeting 4
 
-### Populism: Recent research
+#### Populism: Recent research
 
 {{< icon name="calendar-check" >}} | Thursday, November 4, 2021  
 {{< icon name="clock"          >}} | 6:15PM - 7:45PM (local time)  
 {{< icon name="map"            >}} | TBD
 
-### Reading list
+#### Reading list
 
 1. Cachanosky, N., & Padilla, A. (2020). [A Panel Data Analysis of Latin American Populism](Cachanosky,%20N.%20-%202020%20-%20A%20Panel%20Data%20Analysis%20of%20Latin%20American%20Populism.pdf). Constitutional Political Economy, 31(3), 329–343.
 

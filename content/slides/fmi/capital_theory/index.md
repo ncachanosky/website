@@ -12,6 +12,7 @@ slides:
     hash: true,
     slide_number: c/t,
 --- 
+<!--  =============================================================================  -->
 <!-- COVER SLIDE -->
 {{< slide background-color="#00447c" >}}
 
@@ -32,14 +33,13 @@ ncachano@msudenver.edu
 <div class="text"><p data-markdown>
 1. A history of roadblocks
 2. Finance: A way out
-3. The production function
-3. Extension 1: ABCT
-4. Extension 2: Reswitching
-6. Extension 3: Financial microfoundations
-7. Discussion: Future areas of research
+3. ABCT
+4. Financial microfoundations
+5. Future areas of research
 </p></div>
 
 ---
+<!--  =============================================================================  -->
 <!-- SLIDE 2 -->
 {{< slide background-color="#717073" >}}
 ## A history of roadblocks
@@ -76,7 +76,7 @@ Sets the stage: *Earlier* and *later* production goods
 
 <div class="text"><p data-markdown>
 * Economic progress
-  * A "lenghtening" of the period of production
+  * A "lengthening" of the period of production
   * More time and more complexity
 * Remember:
   * Theory of subjective (marginal) value
@@ -99,7 +99,7 @@ Builds on Menger
   * How **long** and **complex** a production process is
   * More *roundabout* processes are chosen *only if* the output value is at least equal to the extra roundaboutness
 * But... once a new technology is in place, production takes **less** time
-  * Similar to highways in a city
+  * Similar to a highway in a city
   * Is then the **period of production** *forward* or *backward* looking?
 </p></div>
 
@@ -115,14 +115,15 @@ MENGER | **BÖHM-BAWERK**
 
 <div class="text"><p data-markdown>
 The average period of production
-
 $$
 \begin{align}
 APP &= \sum_{t=1}^{n} [\omega_t \cdot (n-t)] \\\\[10pt]
-APP &= \sum_{t=1}^{n} \left[ \frac{l_t}{\sum l_t} \cdot (n-t) \right] \\\\[10pt]
- l_t &\geq 0 \rightarrow \omega \in (0,1), \sum \omega = 1
+APP &= \sum_{t=1}^{n} \left[ \frac{l_t}{\sum l_t} (n-t) \right] \\\\[10pt]
+ l_t & \geq 0 \rightarrow \omega \in (0,1), \sum \omega = 1
 \end{align}
 $$
+
+</p></div>
 
 ---
 <!-- SLIDE 7 -->
@@ -165,7 +166,6 @@ Builds on Böhm-Bawerk
 * Hayekian triangle: Improvement over Böhm-Bawerk
   * Horizontal-axis: Time-value
   * Vertical-axis: Market value
-
 </p></div>
 
 ---
@@ -199,10 +199,9 @@ Remaining issues
 
 * Stages of production do not exist, they are subjective
 * Looping
-* Simple (not componding) interest rate
+* Simple (not compounding) interest rate
 * Backward looking
 * Change of focus: From APP to stages of production
-
 </p></div>
 
 ---
@@ -252,9 +251,7 @@ MENGER | BÖHM-BAWERK | **HAYEK**
 </p></div>
 
 <div class="text"><p data-markdown>
-
 If APP is not possible... then what?
-
 </p></div>
 
 ---
@@ -275,7 +272,6 @@ Focus on capital **heterogeneity**
   * Capital goods are neither perfect substitutes nor perfect complements
   * Capital structure is revised as entrepreneurs think of new ways to produce goods (new -more complex- combinations)
 * Capital (good) is **subjective**
-
 </p></div>
 
 ---
@@ -294,7 +290,7 @@ If you take capital heterogeneity seriously
 
 * Aggregation is impossible
   * Capital is heterogeneous
-  * Capital is subjetive 
+  * Capital is subjective 
   * Capital goods can have different degrees of specifity
   * The market is like a kaleidoscope (complex figures are seen different by different actors)
 * Technology
@@ -315,8 +311,8 @@ MENGER | BÖHM-BAWERK | HAYEK | **LACHMANN**
 
 Capital heterogeneity vs formal economics
 
-* For the kind of mathematics used in econoimcs, **homogeneous** capital is *easy* and *convenient*
-* To model capital heterogenity increases the complexity of the model
+* For the kind of mathematics used in economics, **homogeneous** capital is *easy* and *convenient*
+* Modeling capital heterogeneity increases the complexity of the model
 * Capital heterogeneity was set aside and mathematical tractability took priority
 </p></div>
 
@@ -331,13 +327,13 @@ MENGER | BÖHM-BAWERK | HAYEK | **LACHMANN**
 </p></div>
 
 <div class="text"><p data-markdown>
-
 Now what?
 
 * Capital $\rightarrow$ roundaboutness
 * Roundaboutness
   * Period of production: {{< icon name="ban" pack="fas" >}} <span class="red">roadblock!</span>
   * Heterogeneity: {{< icon name="ban" pack="fas" >}} <span class="red">roadblock!</span>
+</p></div>
 
 ---
 <!-- SLIDE 18 -->
@@ -350,7 +346,6 @@ MENGER | BÖHM-BAWERK | HAYEK | LACHMANN | **MISES**
 </p></div>
 
 <div class="text"><p data-markdown>
-
 Go back to the basics
 
 * What is capital?
@@ -359,6 +354,7 @@ Go back to the basics
 * Aggregation
   * View 1: Needs to assume homogeneity
   * View 2: A money-value construct (financial capital)
+</p></div>
 
 ---
 <!-- SLIDE 19 -->
@@ -371,14 +367,15 @@ MENGER | BÖHM-BAWERK | HAYEK | LACHMANN | **MISES**
 </p></div>
 
 <div class="text"><p data-markdown>
-Some word... different meaning...
+Some word... different meanings...
 
 * Production function: What is $K$?
-  * (1) $Q = \cdot F(A, K, N)$
+  * (1) $Q = F(A, K, N)$
 * Economic profits of the firm: What is $K$?
   * (2) $\pi = PQ - wN - rK$
 * Insert (1) into (2): What is $K$?
   * $\pi = P \cdot F(A, K, N) - wN - rK$
+</p></div>
 
 ---
 <!-- SLIDE 20 -->
@@ -456,7 +453,7 @@ Formalization
 </p></div>
 
 ---
-<!-- SLIDE 23 -->
+<!-- SLIDE 24 -->
 <div class="head_1"><p data-markdown>
 ### A HISTORY OF ROADBLOCKS
 </p></div>
@@ -467,7 +464,6 @@ MENGER | BÖHM-BAWERK | HAYEK | LACHMANN | MISES | **HICKS**
 
 <div class="text"><p data-markdown>
 Formalization (cont...)
-
 * Capital value
 $$
 \begin{align}
@@ -476,10 +472,11 @@ CV_0 &= (q_0 - \varphi_0) + (q_1 - \varphi_1) f + (q_2 - \varphi_2) f^2 + ... \\
 CV_0 &= \pi_0 + CV_1
 \end{align}
 $$
+
 </p></div>
 
 ---
-<!-- SLIDE 24 -->
+<!-- SLIDE 25 -->
 <div class="head_1"><p data-markdown>
 ### A HISTORY OF ROADBLOCKS
 </p></div>
@@ -498,11 +495,10 @@ Implications
   * Semi-elasticity: $\frac{\Delta CV/CV}{\Delta r} < 0$
   * How? Be an economist, apply the elasticity-operator (1939)
   * Similar and independent than Macaulay duration (1938)
-
 </p></div>
 
 ---
-<!-- SLIDE 25 -->
+<!-- SLIDE 26 -->
 <div class="head_1"><p data-markdown>
 ### A HISTORY OF ROADBLOCKS
 </p></div>
@@ -517,12 +513,12 @@ Böhm-Bawerk vs Hicks
 | Böhm-Bawerk        | Hicks             |
 |      :---:         |       :---:       |
 | *backward-looking* | *forward-looking* |
-| $APP = \sum\_{t=1}^{n} \left[\frac{l\_t}{\sum\_t l\_t} \cdot (n-t) \right]$ | $APP = \sum\_t = \left[ \frac{f^t \pi\_t}{\sum\_t \pi\_t} \cdot t \right]$
+| $APP = \sum\_{t=1}^{n} \left[\frac{l\_t}{\sum\_t l\_t} (n-t) \right]$ | $APP = \sum\_t = \left[ \frac{f^t \pi\_t}{\sum\_t f^t \pi\_t} t \right]$
 
 </p></div>
 
 ---
-<!-- SLIDE 26 -->
+<!-- SLIDE 27 -->
 <div class="head_1"><p data-markdown>
 ### A HISTORY OF ROADBLOCKS
 </p></div>
@@ -542,16 +538,16 @@ Summary
   * Production function **without** time
   * What is the interest rate then?
   * The price of capital (one way route to reswitching problems)
-
 </p></div>
 
 ---
-<!-- SLIDE 27 -->
+<!--  =============================================================================  -->
+<!-- SLIDE 28 -->
 {{< slide background-color="#717073" >}}
 ## Finance: A way out
 
 ---
-<!-- SLIDE 28 -->
+<!-- SLIDE 29 -->
 <div class="head_1"><p data-markdown>
 ### FINANCE: A WAY OUT
 </p></div>
@@ -563,15 +559,14 @@ Summary
 <div class="text"><p data-markdown>
 Go back to the beginning
 
-* Put yourself in the shows of an investor
+* Put yourself in the shoes of an investor
 * Investment decisions are decided based on free-cash-flow (FCF) evaluation
 * If a formal model is consistent, then a financial interpretation should predict the same outcome than the theory
 * Many business cycles occur through the financial markets, therefore a financial interpretation of business cycles should be useful
-
 </p></div>
 
 ---
-<!-- SLIDE 29 -->
+<!-- SLIDE 30 -->
 <div class="head_1"><p data-markdown>
 ### FINANCE: A WAY OUT
 </p></div>
@@ -591,11 +586,10 @@ Think like an investor
   * Forward-looking
   * Measured in (expected) market values
   * Valued at the cost of opportunity
-
 </p></div>
 
 ---
-<!-- SLIDE 30 -->
+<!-- SLIDE 31 -->
 <div class="head_1"><p data-markdown>
 ### FINANCE: A WAY OUT
 </p></div>
@@ -617,7 +611,7 @@ Where is the financial capital?
 </p></div>
 
 ---
-<!-- SLIDE 31 -->
+<!-- SLIDE 32 -->
 <div class="head_1"><p data-markdown>
 ### FINANCE: A WAY OUT
 </p></div>
@@ -638,9 +632,10 @@ APP
   * $MD = \frac{D}{1 + YTM}$
 * In continuous time
   * $D = MD$
+</p></div>
 
 ---
-<!-- SLIDE 32 -->
+<!-- SLIDE 33 -->
 <div class="head_1"><p data-markdown>
 ### FINANCE: A WAY OUT
 </p></div>
@@ -660,13 +655,30 @@ APP (cont...)
     * A function of market values
     * Has a time variable
     * Has a financial capital variable
+</p></div>
+
+---
+<!-- SLIDE 34 -->
+<div class="head_1"><p data-markdown>
+### FINANCE: A WAY OUT
+</p></div>
+
+<div class="head_2"><p data-markdown>
+WHY FINANCE? | FCF | **EVA**
+</p></div>
+
+<div class="text"><p data-markdown>
+APP (cont...)
+
+* What do we know? (cont...)
   * Let two projects have same $T$ but different $W$
     * $D_{HR} > D_{LR}$ 
   * Let two projects have same $W$ but different $T$
     * $D_{HR} > D_{LR}$
+</p></div>
 
 ---
-<!-- SLIDE 32 -->
+<!-- SLIDE 35 -->
 <div class="head_1"><p data-markdown>
 ### FINANCE: A WAY OUT
 </p></div>
@@ -683,3 +695,357 @@ Some implications
 * Capital intensity
   * $K/L$ is untenable
   * Capital *intensity* is the size of $W$
+</p></div>
+
+---
+<!--  =============================================================================  -->
+<!-- SLIDE 36 -->
+{{< slide background-color="#717073" >}}
+## ABCT
+
+---
+<!-- SLIDE 37 -->
+<div class="head_1"><p data-markdown>
+### ABCT
+</p></div>
+
+<div class="head_2"><p data-markdown>
+FINANCIAL FRAMEWORK
+</p></div>
+
+<div class="text"><p data-markdown>
+Assumptions
+
+* Let there be two investment projects:
+  * HR: High roundabout
+  * LR: Low roundabout
+* In equilibrium:
+  * $PV_{HR} = PV_{LR}$
+  * $\frac{PV_{HR}}{PV_{LR}} = 1$
+</p></div>
+
+---
+<!-- SLIDE 38 -->
+<div class="head_1"><p data-markdown>
+### ABCT
+</p></div>
+
+<div class="head_2"><p data-markdown>
+FINANCIAL FRAMEWORK
+</p></div>
+
+<div class="text"><p data-markdown>
+
+{{< figure src="Fig_ABCT_1.png" id="wowchemy" >}}
+
+</p></div>
+
+---
+<!-- SLIDE 39 -->
+<div class="head_1"><p data-markdown>
+### ABCT
+</p></div>
+
+<div class="head_2"><p data-markdown>
+FINANCIAL FRAMEWORK
+</p></div>
+
+<div class="text"><p data-markdown>
+Important lesson
+
+* ABCT **does not** need to assume Cantillon effects
+  * If: Cantillon effects are defined as change in relative prices of goods of any level but not the price of time $(i)$
+* Alternative
+  * ABCT uses only **one** Cantillon effect
+  * The price of time with respect to all other goods and services (of any level)
+</p></div>
+
+---
+<!-- SLIDE 40 -->
+<div class="head_1"><p data-markdown>
+### ABCT
+</p></div>
+
+<div class="head_2"><p data-markdown>
+FINANCIAL FRAMEWORK | **RATIONAL EXPECTATIONS**
+</p></div>
+
+<div class="text"><p data-markdown>
+Does ABCT survive a rational expectations critique?
+
+* Assume a continuum of investors
+* Investors have a normal distribution such that: $i ∼ N(i_N, σ_i)$
+* ABCT dynamics are driven by the **marginal** investor, not by the **average** (representative) investor
+* Those who think $i_{LOW}$ is the equilibrium value are willing and able to displace those who think $i_N$ is the correct value
+</p></div>
+
+---
+<!-- SLIDE 41 -->
+<div class="head_1"><p data-markdown>
+### ABCT
+</p></div>
+
+<div class="head_2"><p data-markdown>
+FINANCIAL FRAMEWORK | RATIONAL EXPECTATIONS | **EMPIRICS**
+</p></div>
+
+<div class="text"><p data-markdown>
+Strategy
+
+* Use the EVA framework
+  * Use EVA (perceived profits) and $W$ (net investment) as dependent variables
+  * Then:
+    * $\text{EVA}_i (i, controls) < 0$
+    * $W_i(i, controls) < 0$
+  * Variables of interest
+    * Short term interest rate (monetary policy)
+    * Long term interest rate (relevant for investors)
+</p></div>
+
+---
+<!-- SLIDE 42 -->
+<div class="head_1"><p data-markdown>
+### ABCT
+</p></div>
+
+<div class="head_2"><p data-markdown>
+FINANCIAL FRAMEWORK | RATIONAL EXPECTATIONS | **EMPIRICS**
+</p></div>
+
+<div class="text"><p data-markdown>
+Strategy (cont...)
+
+* Use the EVA framework (cont...)
+  * Then, build an econometric model
+    * Statistical test on different size of $\beta$ for $i$
+    * ARMA(p,q) model
+    * IRF from a VAR(p) model
+</p></div>
+
+---
+<!--  =============================================================================  -->
+<!-- SLIDE 43 -->
+{{< slide background-color="#717073" >}}
+## FINANCIAL MICROFOUNDATIONS
+
+---
+<!-- SLIDE 44 -->
+<div class="head_1"><p data-markdown>
+### FINANCIAL MICROFOUNDATIONS
+</p></div>
+
+<div class="head_2"><p data-markdown>
+EVA VS FCF
+</p></div>
+
+{{< figure src="Fig_EVA_Table.png" width=65% height=65% >}}
+
+---
+
+<!-- SLIDE 45 -->
+<div class="head_1"><p data-markdown>
+### FINANCIAL MICROFOUNDATIONS
+</p></div>
+
+<div class="head_2"><p data-markdown>
+EVA VS FCF
+</p></div>
+
+<div class="text"><p data-markdown>
+Advantages of EVA over FCF
+
+* EVA is a cleaner representation
+  * Does not mix investment with operational costs
+  * Works with percentages and economic terms
+  * Has an explicit variable for (financial) capital
+</p></div>
+
+---
+
+<!-- SLIDE 46 -->
+<div class="head_1"><p data-markdown>
+### FINANCIAL MICROFOUNDATIONS
+</p></div>
+
+<div class="head_2"><p data-markdown>
+EVA VS FCF | **VALUE DRIVERS**
+</p></div>
+
+<div class="text"><p data-markdown>
+Go more micro...
+$$
+\begin{align}
+ROIC &= \frac{NOPAT}{w} \\\\[10pt]
+ROIC &= \frac{\frac{NOPAT}{TR}×TR}{W} \\\\[10pt]
+ROIC &= \frac{\frac{TR - C_1 - … - C_n}{TR}×TR}{W}
+\end{align}
+$$
+
+</p></div>
+
+---
+<!-- SLIDE 47 -->
+<div class="head_1"><p data-markdown>
+### FINANCIAL MICROFOUNDATIONS
+</p></div>
+
+<div class="head_2"><p data-markdown>
+EVA VS FCF | **VALUE DRIVERS**
+</p></div>
+
+<div class="text"><p data-markdown>
+Go more micro...
+$$
+\begin{align}
+ROIC &= \left[ 1 - \frac{C_1}{TR} - … - \frac{C_n}{TR} \right] \frac{TR}{W} \\\\[10pt]
+ROIC &= \left[ \left(\frac{Ω_1}{TR} … \frac{Ω_m}{TR} \right) - \left(\frac{C_1}{TR} - … - \frac{C_n}{TR} \right) \right] \\\\[10pt]
+ROIC &= \left[ \left( ω_1 + … + ω_m \right) - \left(φ_1 + … + φ_n \right) \right]
+\end{align}
+$$
+
+</p></div>
+
+---
+<!-- SLIDE 48 -->
+<div class="head_1"><p data-markdown>
+### FINANCIAL MICROFOUNDATIONS
+</p></div>
+
+<div class="head_2"><p data-markdown>
+EVA VS FCF | **VALUE DRIVERS**
+</p></div>
+
+<div class="text"><p data-markdown>
+Go more micro...
+
+* You can use the value drivers to capture Cantillon effects
+* The value driver gives an estimation of the size of its effect
+* Which relative prices are more and which ones are less impactful
+</p></div>
+
+---
+<!-- SLIDE 49 -->
+<div class="head_1"><p data-markdown>
+### FINANCIAL MICROFOUNDATIONS
+</p></div>
+
+<div class="head_2"><p data-markdown>
+EVA VS FCF | VALUE DRIVERS | **EVA VS ECONOMIC PROFITS**
+</p></div>
+
+<div class="text"><p data-markdown>
+EVA is the financial equivalent of EP
+
+* Assume $w$ is the price of all inputs (labor and others)
+* Assume $L$ is the quantity of all inputs (labor and others)
+</p></div>
+
+---
+<!-- SLIDE 50 -->
+<div class="head_1"><p data-markdown>
+### FINANCIAL MICROFOUNDATIONS
+</p></div>
+
+<div class="head_2"><p data-markdown>
+EVA VS FCF | VALUE DRIVERS | **EVA VS ECONOMIC PROFITS**
+</p></div>
+
+<div class="text"><p data-markdown>
+EVA is the financial equivalent of EP
+$$
+\begin{align}
+π &= pq - wL - iW \\\\[10pt]
+π &= \left( \frac{pq - wL}{W} - i \right) W
+\end{align}
+$$
+
+Then
+* $CV = W_0 + ∑\_{t=1}^{\infty} \left(\frac{p_t q_t - w_t L_t }{W_{t-1}} - i_t \right) W\_{t-1}$
+
+</p></div>
+
+---
+<!--  =============================================================================  -->
+<!-- SLIDE 51 -->
+{{< slide background-color="#717073" >}}
+## FUTURE AREAS OF RESEARCH
+
+
+
+---
+<!-- SLIDE 52 -->
+<div class="head_1"><p data-markdown>
+### FUTURE AREAS OF RESEARCH
+</p></div>
+
+<div class="head_2"><p data-markdown>
+ALERTNESS
+</p></div>
+
+<div class="text"><p data-markdown>
+Look at $MVA$
+
+* $CV = W_0 + MVA$
+* Can $MVA$ be the financial equivalent of Kirzner's *alertness*?
+</p></div>
+
+---
+<!-- SLIDE 53 -->
+<div class="head_1"><p data-markdown>
+### FUTURE AREAS OF RESEARCH
+</p></div>
+
+<div class="head_2"><p data-markdown>
+ALERTNESS | **MANAGERIAL ECONOMICS**
+</p></div>
+
+<div class="text"><p data-markdown>
+Look at investment
+
+* Whether an expense is considered a **cost** or an **investment** is subjective
+* The value of EVA depends on whether an expense is a cost or an investment
+* Therefore, the value $CV$ depends on whether an expense is a cost or an investment
+* Two dimensions of subjective value:
+  * External: The cash-flow that builds MVA 
+  * Internal: Whether an expense is considered a cost or an investment by the investor
+</p></div>
+
+---
+<!-- SLIDE 54 -->
+<div class="head_1"><p data-markdown>
+### FUTURE AREAS OF RESEARCH
+</p></div>
+
+<div class="head_2"><p data-markdown>
+ALERTNESS | MANAGERIAL ECONOMICS | **DEVELOPMENT**
+</p></div>
+
+<div class="text"><p data-markdown>
+Use EFW as a framework
+
+* Map how changes in each EFW sub-index affects $CV$
+* You have tractable and well-defined marginal effects of policy and institutional shocks
+* EFW sub-indices
+  * Area 1: Size of government
+  * Area 2: Legal system and property rights
+  * Area 3: Sound money
+  * Area 4: Freedom to trade internationally
+  * Area 5: Regulation
+</p></div>
+
+---
+<!-- SLIDE 54 -->
+<div class="head_1"><p data-markdown>
+### FUTURE AREAS OF RESEARCH
+</p></div>
+
+<div class="head_2"><p data-markdown>
+ALERTNESS | MANAGERIAL ECONOMICS | DEVELOPMENT
+</p></div>
+
+<div class="text"><p data-markdown>
+[Want more details?](https://www.routledge.com/Capital-and-Finance-Theory-and-History/Lewin-Cachanosky/p/book/9780367143725)
+
+![Want more?](../../../books/Book%204.jpg)
+
+</p></div>
