@@ -45,7 +45,7 @@ DOI: 10.1017/S105383721700013X
 with [Peter Lewin][PL] (University of Texas at Dallas)  
 <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2479408" class="fancy-button-blue">SSRN version</a>
 
-[04] 2018. [The Grecian Horse: Does Immigration Lead to the Deterioriation of American Institutions?][P32]  
+[04] 2018. [The Grecian Horse: Does Immigration Lead to the Deterioration of American Institutions?][P32]  
 ***Public Choice***, Vol. 30, No. 2, pp. 169-192  
 DOI: 10.1007/s11127-018-0509-5  
 with [Alexandre Padilla][AP] (Metropolitan State University of Denver)  
@@ -195,7 +195,7 @@ DOI: 10.1017/S105383721700013X
 with [Peter Lewin][PL] (University of Texas at Dallas)  
 <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2479408" class="fancy-button-blue">SSRN version</a>
 
-[32] 2018. [The Grecian Horse: Does Immigration Lead to the Deterioriation of American Institutions?][P32]  
+[32] 2018. [The Grecian Horse: Does Immigration Lead to the Deterioration of American Institutions?][P32]  
 ***Public Choice***, Vol. 30, No. 2, pp. 169-192  
 DOI: 10.1007/s11127-018-0509-5  
 with [Alexandre Padilla][AP] (Metropolitan State University of Denver)  
