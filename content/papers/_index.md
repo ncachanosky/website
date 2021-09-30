@@ -16,7 +16,7 @@ header:
 ## Selected Journal Articles
 
 [09] 2021. [The Federal Reserve's Response to the Covid-19 Contraction: An Initial Appraisal][P49]  
-***Southern Economic Journal***  
+***Southern Economic Journal***, Vol. 87, No. 4, pp. 1152-1174    
 DOI: 10.1002/soej.12498  
 with [Bryan P. Cutsinger][BC] (Angelo State University), [Thomas L. Hogan][TH] (American Institute for Economic Research), [William J. Luther][WL] (Florida Atlantic University), and [Alexander W. Salter][AS] (Texas Tech University)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3726345" class="fancy-button-blue">SSRN version</a>
@@ -78,21 +78,21 @@ with Agustina Borella (Universidad de Buenos Aires) and [Gabriel J. Zanotti][GZ]
 DOI: 10.1007/s11138-021-00548-7  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3596226" class="fancy-button-blue">SSRN version</a>
 
-[53] *Forthcoming*. Latin America Left-Populism, Price of Commodities, and Economic Crises  
-***Journal of Private Enterprise Education***  
-with [Alexandre Padilla][AP] (Metropolitan State University of Denver)  
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3375424" class="fancy-button-blue">SSRN version</a>
-
-[52] *Forthcoming*. Monetary Disorder in Buenos Aires Province (1822-1881)  
+[53] *Forthcoming*. Monetary Disorder in Buenos Aires Province (1822-1881)  
 ***The Independent Review***  
 with [Adrián O. Ravier][AR] (ESEADE)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3753634" class="fancy-button-blue">SSRN version</a>
 
-[51] *Forthcoming*. The Upper Turning Point in the Austrian Business Cycle Theory  
+[52] *Forthcoming*. The Upper Turning Point in the Austrian Business Cycle Theory  
 ***The Review of Austrian Economics***  
 DOI: 10.1007/s11138-019-00497-2  
 with [Anthony J. Evans][AV] (ESCP Europe Business School) and Robert Thorpe  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3145284" class="fancy-button-blue">SSRN version</a>
+
+[51] 2021. [Latin America Left-Populism, Price of Commodities, and Economic Crises][P51]  
+***Journal of Private Enterprise Education***, Vol. 36, No. 2, pp. 1-17.  
+with [Alexandre Padilla][AP] (Metropolitan State University of Denver)  
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3375424" class="fancy-button-blue">SSRN version</a>
 
 [50] 2021. [Microfoundations and Macroeconomics: 20 Years][P50]  
 ***The Review of Austrian Economics***, Vol.34, No. 2, pp. 279-288  
@@ -420,6 +420,8 @@ In Ravier, A. (ed.) ***Lecturas de Historia del Pensamiento Económico***. Madri
 
 
 <!-- HYPERLINKS TO JOURNAL ARTICLES -->
+[P51]: <http://journal.apee.org/index.php/PARTE1_2021_Journal_of_Private_Enterprise_Vol_36_No_2_Summer>
+
 [P50]: <https://link.springer.com/article/10.1007/s11138-020-00500-1>
 
 [P49]: <https://onlinelibrary.wiley.com/doi/10.1002/soej.12498>
