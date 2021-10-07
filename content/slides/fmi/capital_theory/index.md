@@ -1032,17 +1032,3 @@ Use EFW as a framework
   * Area 4: Freedom to trade internationally
   * Area 5: Regulation
 </p></div>
-
----
-<!-- SLIDE 54 -->
-<div class="head_1"><p data-markdown>
-### FUTURE AREAS OF RESEARCH
-</p></div>
-
-<div class="head_2"><p data-markdown>
-WANT MORE DETAILS?
-</p></div>
-
-<div class="text"><p data-markdown>
-[Want more details?](https://www.routledge.com/Capital-and-Finance-Theory-and-History/Lewin-Cachanosky/p/book/9780367143725)
-</p></div>
