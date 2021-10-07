@@ -1040,12 +1040,10 @@ Use EFW as a framework
 </p></div>
 
 <div class="head_2"><p data-markdown>
-ALERTNESS | MANAGERIAL ECONOMICS | DEVELOPMENT
+WANT MORE DETAILS?
 </p></div>
 
 <div class="text"><p data-markdown>
 [Want more details?](https://www.routledge.com/Capital-and-Finance-Theory-and-History/Lewin-Cachanosky/p/book/9780367143725)
-
-![Want more?](../../../books/Book%204.jpg)
 
 </p></div>
