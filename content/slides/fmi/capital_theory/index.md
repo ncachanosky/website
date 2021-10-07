@@ -606,7 +606,7 @@ Where is the financial capital?
   * $CV_0 = \sum_{0}^{T \rightarrow \infty} = \frac{FCF_t}{(1+i)^t}$
   * do some math-magic...
   * $CV_0 = W_0 + \sum_{t=1}^{\infty} \frac{EVA_t}{(1+i)^t}$
-  * $CV_0 = W_0 + \sum_{t=1}^{\infty} \frac{(ROIC_t - i)W_{t-1}}{(1+i)^t}$
+  * $CV_0 = W_0 + \sum_{t=1}^{\infty} \frac{(ROIC_{t - i})W_{t-1}}{(1+i)^t}$
   * $CV_0 = W_0 + MVA$
 </p></div>
 
