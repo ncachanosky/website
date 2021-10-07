@@ -1045,5 +1045,4 @@ WANT MORE DETAILS?
 
 <div class="text"><p data-markdown>
 [Want more details?](https://www.routledge.com/Capital-and-Finance-Theory-and-History/Lewin-Cachanosky/p/book/9780367143725)
-
 </p></div>
