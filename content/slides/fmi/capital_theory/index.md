@@ -796,7 +796,7 @@ Strategy
   * Use EVA (perceived profits) and $W$ (net investment) as dependent variables
   * Then:
     * $\frac{\partial \text{EVA}}{\partial i} (i, controls) < 0$
-    * $W_i(i, controls) < 0$
+    * $\frac{\partial W}{\partial i} < 0$
   * Variables of interest
     * Short-term interest rate (monetary policy)
     * Long-term interest rate (relevant for investors)
