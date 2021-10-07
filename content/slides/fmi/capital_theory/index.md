@@ -838,7 +838,7 @@ Strategy (cont...)
 EVA VS FCF
 </p></div>
 
-{{< figure src="Fig_EVA_Table.png" width=50% height=50% >}}
+{{< figure src="Fig_EVA_Table.png" width=45% height=45% >}}
 
 ---
 
