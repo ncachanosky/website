@@ -776,7 +776,7 @@ Does ABCT survive a rational expectations critique?
 * Assume a continuum of investors
 * Investors have a normal distribution such that: $i ∼ N(i_N, σ_i)$
 * ABCT dynamics are driven by the **marginal** investor, not by the **average** (representative) investor
-* Those who think $i_{LOW}$ is the equilibrium value are willing and able to displace those who think $i_N$ is the correct value
+* Those who think $i_{LOW}$ is the equilibrium value are **willing** and **able** to displace those who think $i_N$ is the correct value
 </p></div>
 
 ---
@@ -795,11 +795,11 @@ Strategy
 * Use the EVA framework
   * Use EVA (perceived profits) and $W$ (net investment) as dependent variables
   * Then:
-    * $\text{EVA}_i (i, controls) < 0$
+    * $\frac{\partial \text{EVA}}{\partial i} (i, controls) < 0$
     * $W_i(i, controls) < 0$
   * Variables of interest
-    * Short term interest rate (monetary policy)
-    * Long term interest rate (relevant for investors)
+    * Short-term interest rate (monetary policy)
+    * Long-term interest rate (relevant for investors)
 </p></div>
 
 ---
