@@ -12,9 +12,13 @@ slides:
     hash: true,
     slide_number: c/t,
 --- 
+
+
 <!--  =============================================================================  -->
 <!-- COVER SLIDE -->
+
 {{< slide background-color="#00447c" >}}
+
 
 # FMI GRADUATE SEMINAR
 
@@ -31,11 +35,10 @@ ncachano@msudenver.edu
 </p></div>
 
 <div class="text"><p data-markdown>
-1. A history of roadblocks
-2. Finance: A way out
-3. ABCT
-4. Financial microfoundations
-5. Future areas of research
+1. What is populism
+2. Who are the populists (old and new)
+3. Recent work on populism
+4. Potential areas of research
 </p></div>
 
 ---
@@ -66,5 +69,14 @@ Sets the stage: *Earlier* and *later* production goods
 
 ---
 <!-- SLIDE 4 -->
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+Hi text!
+
 
 

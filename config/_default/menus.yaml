@@ -19,9 +19,12 @@ main:
   - name: El Hub Económico
     url: 'https://www.elhubeconomico.com/'
     weight: 50
+  - name: Media
+    url: 'media/'
+    weight: 60
   - name: Blog
     url: 'https://puntodevistaeconomico.com/'
-    weight: 60
+    weight: 70
   - name: FMI Graduate Seminar
     url: 'fmi/'
-    weight: 70
+    weight: 80

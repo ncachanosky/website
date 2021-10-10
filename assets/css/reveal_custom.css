@@ -8,10 +8,25 @@
 
 /*==========================================*/
 /* GLOBAL SETTINGS ======================== */
-.reveal a{
+.reveal {
+  color: #111111;
+}
+
+.reveal h2 {
+
+}
+
+.reveal h3 {
+  
+}
+
+.reveal a {
   text-decoration: none;
   color:steelblue;
-  transition
+}
+
+.reveal a.cover {
+  color:white
 }
 
 .reveal blockquote {
@@ -23,67 +38,23 @@
   font-size: 75%;
   font-style: normal;
   text-align: justify;
-  background-color:rgba(211, 211, 211, 0.2); 
+  background-color: rgba(211, 211, 211, 0.2); 
   box-shadow: 0px 0px 20px rgba(42, 84, 169, 0.2)
 }
 
 /*==========================================*/
-/* SLIDES DESIGNS ========================= */
-
-/*
-.cover {
-  background-color:#00447c;
-}
-
-.sub-section {
-  color:white;
-}
-
-.sub-section body {background-color:#717073 ;}
-*/
-
-/*==========================================*/
-/* TWO COLUMN CLASSES ===================== */
-
-/*
-.left{
-  padding-left: 5%;
-  left:20%;
-  text-align: left;
-  float: left;
-  width:45%;
-}
-
-.left h2{
-  font-size:100%; color:black}
-
-.left h3{
-  font-size:75%; color:black}
-
-/*.left h2:last-of-type, .left h3:last-child {color:#717073;}*/
-
-.left h3:last-child {color:black;}
-
-.right {
-  left:20%;
-  float: right;
-  text-align: left;
-  width:45%;
-}
-*/
-
-/*==========================================*/
 /* ONE COLUMN CLASSES ===================== */
- 
 .head_1 {
   float:initial;
   text-align: center;
+
 }
 
 .head_1 h3 {
   font-size:100%;
   text-align:center;
   color:black;
+
 }
 
 .head_2 {
@@ -91,9 +62,10 @@
   text-align: center;
   font-size: 75%;
   border-bottom: solid;
+
 }
 
-.head_2 h3{
+.head_2 h3 {
   font-size:100%;
 }
 
@@ -102,3 +74,31 @@
   text-align:center;
   font-size:75%;
 }
+/*
+.left { 
+  padding-left: 5%;
+  padding-right: 5%
+  left:20%;
+  text-align: left;
+  float: left;
+  width:33%;
+}
+
+.center {
+  padding-left: 5%;
+  padding-right: 5%
+  left:20%;
+  text-align: left;
+  float:center;
+  width:33%;
+}
+
+.right {
+  padding-left: 5%;
+  padding-right: 5%
+  left:20%;
+  text-align: left;
+  float: right;
+  width:33%;
+}
+*/
