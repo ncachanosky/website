@@ -12,6 +12,7 @@
   color: #111111;
 }
 
+/*
 .reveal h2 {
 
 }
@@ -19,6 +20,7 @@
 .reveal h3 {
   
 }
+*/
 
 .reveal a {
   text-decoration: none;
@@ -74,31 +76,3 @@
   text-align:center;
   font-size:75%;
 }
-/*
-.left { 
-  padding-left: 5%;
-  padding-right: 5%
-  left:20%;
-  text-align: left;
-  float: left;
-  width:33%;
-}
-
-.center {
-  padding-left: 5%;
-  padding-right: 5%
-  left:20%;
-  text-align: left;
-  float:center;
-  width:33%;
-}
-
-.right {
-  padding-left: 5%;
-  padding-right: 5%
-  left:20%;
-  text-align: left;
-  float: right;
-  width:33%;
-}
-*/
