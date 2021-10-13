@@ -16,7 +16,6 @@ slides:
 
 <!--  =============================================================================  -->
 <!-- COVER SLIDE -->
-
 {{< slide background-color="#00447c" >}}
 
 #### FMI RESEARCH WORSKHOP
@@ -34,7 +33,7 @@ asalter@fmi.edu
 
 **Ignacio Savanti**  
 Universidad del CEMA  
-email@ucema.edu.ar
+imsavanti22@ucema.edu.ar
 </p></div>
 
 ---
