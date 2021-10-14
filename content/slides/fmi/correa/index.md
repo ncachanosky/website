@@ -15,13 +15,15 @@ slides:
 
 <!--  =============================================================================  -->
 <!-- COVER SLIDE -->
+
 {{< slide background-color="#00447c" >}}
+
 
 #### FMI RESEARCH WORSKHOP
 
 ##### CAN DOLLARIZATION CONSTRAIN A POPULIST REGIME? THE CASE OF RAFAEL CORREA IN ECUADOR
 
-<div class="text" font-size=10%><p data-markdown>
+<div class="text"><p data-markdown>
 **Nicolás Cachanosky**  
 Metropolitan State University of Denver  
 ncachano@msudenver.edu
