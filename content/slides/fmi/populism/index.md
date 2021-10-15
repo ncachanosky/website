@@ -32,6 +32,7 @@ ncachano@msudenver.edu
 ---
 <!-- SLIDE 1 -->
 <div class="text"><p data-markdown>
+
 ## Agenda
 
 1. [What is populism](#/2)

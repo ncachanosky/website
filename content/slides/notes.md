@@ -39,7 +39,7 @@ backgroundTransition:
 
 **COLOR PALETTER**
 * MSU Denver Blue
-  * RGG: 0R | 68G | 40K
+  * RGG: 0R | 68G | 124K
   * HEX: 00447c
 * MSU Denver Red
   * RGB: 209R | 18G | 13K
