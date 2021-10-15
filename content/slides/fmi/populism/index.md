@@ -9,6 +9,7 @@ slides:
   theme: white
   highlight_style: github
   reveal_options:
+    transition: none
     hash: true
     slide_number: c/t
     controls: false
@@ -22,14 +23,14 @@ slides:
 
 ### FMI GRADUATE SEMINAR
 
-#### POPULISM
-
+### POPULISM
 
 **Nicolás Cachanosky**  
 Metropolitan State University of Denver  
 ncachano@msudenver.edu
 
 ---
+<!--  =============================================================================  -->
 <!-- SLIDE 1 -->
 <div class="text"><p data-markdown>
 
@@ -61,6 +62,27 @@ ncachano@msudenver.edu
   * Is there anything "conceptually" different in a populist regime from a democratic type of government?
 </p></div>
 
+
+---
+<!--  =============================================================================  -->
+<!-- SLIDE 2 -->
+{{< slide background-color="#d11242" >}}
+
+## Who are the populists
+
+### Old and new
+
+---
+<!--  =============================================================================  -->
+<!-- SLIDE 2 -->
+{{< slide background-color="#d11242" >}}
+
+## Recent work on populism
+
 ---
 
+<!--  =============================================================================  -->
+<!-- SLIDE 2 -->
+{{< slide background-color="#d11242" >}}
 
+## Potential areas of research
