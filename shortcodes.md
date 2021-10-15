@@ -129,3 +129,6 @@ Slide 2
 
 {{% /section %}}
 
+
+# ARCHETYPES <!-------------------------------------------->
+https://github.com/wowchemy/wowchemy-hugo-themes/tree/main/wowchemy/archetypes

@@ -1,16 +1,18 @@
 ---
-title: FMI | Capital Theory
+title: FMI | Populism
 summary: FMI Graduate Workshop
-authors: [Nicolas Cachanosky]
+authors: []
 tags: []
 categories: []
-date: "2019-02-05T00:00:00Z"
+date: []
 slides:
   theme: white
   highlight_style: github
   reveal_options:
-    hash: true,
-    slide_number: c/t,
+    hash: true
+    slide_number: c/t
+    controls: false
+
 --- 
 
 
@@ -19,10 +21,10 @@ slides:
 
 {{< slide background-color="#00447c" >}}
 
+### FMI GRADUATE SEMINAR
 
-# FMI GRADUATE SEMINAR
+#### POPULISM
 
-## POPULISM
 
 **Nicolás Cachanosky**  
 Metropolitan State University of Denver  
@@ -30,12 +32,10 @@ ncachano@msudenver.edu
 
 ---
 <!-- SLIDE 1 -->
-<div class="head_1"><p data-markdown>
-## Agenda
-</p></div>
-
 <div class="text"><p data-markdown>
-1. What is populism
+## Agenda
+
+1. [What is populism](#/2)
 2. Who are the populists (old and new)
 3. Recent work on populism
 4. Potential areas of research
@@ -44,21 +44,17 @@ ncachano@msudenver.edu
 ---
 <!--  =============================================================================  -->
 <!-- SLIDE 2 -->
-{{< slide background-color="#717073" >}}
-## A history of roadblocks
+{{< slide background-color="#d11242" >}}
+
+## What is populism
 
 ---
-<!-- SLIDE 3 -->
-<div class="head_1"><p data-markdown>
-### A HISTORY OF ROADBLOCKS
-</p></div>
 
-<div class="head_2"><p data-markdown>
-**MENGER**
-</p></div>
+<!-- SLIDE 3 -->
 
 <div class="text"><p data-markdown>
-Sets the stage: *Earlier* and *later* production goods
+
+### What is populism
 
 * Consumption goods are produced by goods of various "orders"
   * Higher order goods are transformed into lower order goods
@@ -68,15 +64,5 @@ Sets the stage: *Earlier* and *later* production goods
 </p></div>
 
 ---
-<!-- SLIDE 4 -->
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-Hi text!
-
 
 
