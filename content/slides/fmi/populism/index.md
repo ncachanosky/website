@@ -12,7 +12,6 @@ slides:
     hash: true
     slide_number: c/t
     controls: false
-
 --- 
 
 
