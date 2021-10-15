@@ -55,11 +55,9 @@ ncachano@msudenver.edu
 
 ### What is populism
 
-* Consumption goods are produced by goods of various "orders"
-  * Higher order goods are transformed into lower order goods
-* Structure of production
-  * How to order the use of production goods [<span class="red">period of production</span>]
-  * How to combine different production goods [<span class="red">heterogeneity</span>]
+* It is very difficult to define
+  * Is populism an exaggeration of democratic features?
+  * Is there anything "conceptually" different in a populist regime from a democratic type of government?
 </p></div>
 
 ---
