@@ -43,7 +43,7 @@ backgroundTransition:
   * HEX: 00447c
 * MSU Denver Red
   * RGB: 209R | 18G | 13K
-  * HEX:  d11242
+  * HEX: d11242
 * MSU Denver Grey
-  * RGB: 0C | 112G | 115B
+  * RGB: 113R | 112G | 115B
   * HEX: 717073
