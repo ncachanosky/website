@@ -19,6 +19,8 @@ The **second** section looks at the literature studying the recent rise of the l
 
 ## Capital theory
 
+<a href="https://www.ncachanosky.com/slides/fmi/capital_theory/" class="fancy-button-blue">SSRN version</a>
+
 ### Meeting 1
 
 #### Capital theory: History of an idea
