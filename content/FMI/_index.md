@@ -61,6 +61,8 @@ The **second** section looks at the literature studying the recent rise of the l
 
 ## Populism
 
+<a href="2021 - FMI - Populism.pdf" class="fancy-button-blue">SLIDES</a>
+
 ### Meeting 3
 
 #### Populism: Recent research
