@@ -389,7 +389,7 @@ with Juan C. Cachanosky
 ---
 ## Book Chapters
 
-[08] *Forthcoming*. Capital Theory and the Theory of the Firm
+[08] *Forthcoming*. Capital Theory and the Theory of the Firm  
 In Bylund, P. (ed.) ***Modern Guide to Austrian Economics***.
 with [Peter Lewin][PL] (University of Texas at Dallas)  
 <a href="(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3967482" class="fancy-button-blue">SSRN version</a>
