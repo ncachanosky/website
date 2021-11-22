@@ -7,7 +7,7 @@ header:
   image: ""
 ---
 
-## In spanish
+## In Spanish
 [34] 2021. [Del 2011 a Covid-19: la Argentina hipotética que no fue](https://www.infobae.com/opinion/2021/11/21/del-2011-a-covid-19-la-argentina-hipotetica-que-no-fue/?utm_medium=Echobox&utm_source=Twitter#Echobox=1637497747)  
 **Infobae** (con Iván Cachanosky)
 
