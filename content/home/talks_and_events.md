@@ -26,7 +26,7 @@ design:
 
 ---
 
-## [UUCEMA Friedman-Hayek Center for the Study of a Free Society](https://ucema.edu.ar/friedman-hayek-center)
+## [UCEMA Friedman-Hayek Center for the Study of a Free Society](https://ucema.edu.ar/friedman-hayek-center)
 
 {{< icon name="chalkboard-teacher" >}} | **¿Pueden las criptomonedas ser dinero?**  
 {{< icon name="calendar-check"     >}} | Thursday, 9 Dec 2021  
