@@ -32,4 +32,4 @@ design:
 {{< icon name="calendar-check"     >}} | Thursday, 9 Dec 2021  
 {{< icon name="clock"              >}} | 6:00PM - 7:00PM (local time)  
 {{< icon name="map"                >}} | [Online](https://ucema.edu.ar/cgi-bin/inscripcion.pl?file=cys2021/65_Seminario_para_el_estudio_de_una_sociedad_libre/12.09FH.txt)  
-{{< icon name="file-powerpoint"    >}} | [Download slides](static/uploads/UCEMA%20-%202021%20-%20An%20Economic%20Analysis%20of%20Bitcoin.pdf)
+{{< icon name="file-powerpoint"    >}} | [Download slides](uploads/UCEMA%20-%202021%20-%20An%20Economic%20Analysis%20of%20Bitcoin.pdf)
