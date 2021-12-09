@@ -39,5 +39,5 @@ design:
 {{< icon name="chalkboard-teacher" >}} | **Can Dollarization Constrain a Populist Leader? The Case of Rafael Correa in Ecuador**  
 {{< icon name="calendar-check"     >}} | Monday, 10 Jan 2022  
 {{< icon name="clock"              >}} | 7:00AM (UTC-7)  
-<!-- {{< icon name="map"                >}} | [Online](https://ucema.edu.ar/cgi-bin/inscripcion.pl?file=cys2021/65_Seminario_para_el_estudio_de_una_sociedad_libre/12.09FH.txt)  -->
+{{< icon name="map"                >}} | Online65_Seminario_para_el_estudio_de_una_sociedad_libre/12.09FH.txt)  -->
 <!-- {{< icon name="file-powerpoint"    >}} | [Download slides](uploads/UCEMA%20-%202021%20-%20An%20Economic%20Analysis%20of%20Bitcoin.pdf) -->
