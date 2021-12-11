@@ -371,7 +371,7 @@ with [Peter Lewin][PL] (University of Texas at Dallas)
 ***LIBERTAS: Segunda Época***, Vol. 4, No. 1, pp. 1-6  
 with [Gabriel J. Zanotti][GZ] (Universidad Francisco Marroquín)
 
-[04] 2017. [Economic and Philosphical Implications of Hayek's Knowledge Problem][NRP04]  
+[04] 2017. [Economic and Philosophical Implications of Hayek's Knowledge Problem][NRP04]  
 ***LIBERTAS: Segunda Época***, Vol. 2, No. 1, pp. 67-79  
 with [Alexandre Padilla][AP] (Metropolitan State University of Denver)
 
