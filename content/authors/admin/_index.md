@@ -11,7 +11,7 @@ role: Associate Professor of Economics
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Metropolitan State University of Denver
-  url: https://www.stanford.edu/
+  url: https://www.msudenver.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: N. Cachanosky | MSU Denver
