@@ -13,18 +13,22 @@ main:
   - name: Books
     url: 'books/'
     weight: 30
-  - name: Macro with Python
-    url: 'https://macro-with-python.netlify.app/'
+  - name: Projects
+    url: 'project'
     weight: 40
-  - name: El Hub Económico
-    url: 'https://www.elhubeconomico.com/'
-    weight: 50
   - name: Media
     url: 'media/'
     weight: 60
-  - name: Blog
-    url: 'https://puntodevistaeconomico.com/'
+  - name: Blogs
     weight: 70
+  - name: Punto de Vista Económico
+    url: 'https://puntodevistaeconomico.com/'
+    parent: 'Blogs'
+    weight: 1
+  - name: Economic Order Blog
+    url: 'https://economic-order.netlify.app/'
+    parent: 'Blogs'
+    weight: 2
   - name: FMI Graduate Seminar
     url: 'fmi/'
     weight: 80
