@@ -19,13 +19,8 @@ links:
   url: https://twitter.com/econhub
 - icon: github
   icon_pack: fab
-  name: Watch /  Star
+  name: Code
   url: https://github.com/ncachanosky/el-hub-economico
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
 ---
 
 

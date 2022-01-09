@@ -19,6 +19,6 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: Watch /  Star
+  name: Code
   url: https://github.com/ncachanosky/Macro-with-Python
 ---
