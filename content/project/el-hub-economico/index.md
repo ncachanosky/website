@@ -13,14 +13,14 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/econhub
 - icon: github
   icon_pack: fab
   name: Code
   url: https://github.com/ncachanosky/el-hub-economico
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/econhub
 ---
 
 
