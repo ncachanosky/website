@@ -16,11 +16,8 @@ main:
   - name: Projects
     url: 'project'
     weight: 40
-  - name: Media
-    url: 'media/'
-    weight: 60
   - name: Blogs
-    weight: 70
+    weight: 60
   - name: Punto de Vista Económico
     url: 'https://puntodevistaeconomico.com/'
     parent: 'Blogs'
@@ -29,6 +26,3 @@ main:
     url: 'https://economicorder.substack.com/'
     parent: 'Blogs'
     weight: 2
-  - name: FMI Graduate Seminar
-    url: 'fmi/'
-    weight: 80
