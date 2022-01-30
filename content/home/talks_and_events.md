@@ -5,7 +5,7 @@ widget: blank
 
 # Activate this widget? true/false
 active: false
-expiryDate: 2022-01-11 
+
 
 # This file represents a page section.
 headless: true
