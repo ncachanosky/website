@@ -83,39 +83,39 @@ DOI: 10.1007/s11138-021-00548-7
 with [Adrián O. Ravier][AR] (ESEADE)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3753634" class="fancy-button-blue">SSRN version</a>
 
-[52] *Forthcoming*. The Upper Turning Point in the Austrian Business Cycle Theory  
-***The Review of Austrian Economics***  
-DOI: 10.1007/s11138-019-00497-2  
-with [Anthony J. Evans][AV] (ESCP Europe Business School) and Robert Thorpe  
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3145284" class="fancy-button-blue">SSRN version</a>
-
-[51] 2021. [Latin America Left-Populism, Price of Commodities, and Economic Crises][P51]  
+[52] 2021. [Latin America Left-Populism, Price of Commodities, and Economic Crises][P52]  
 ***Journal of Private Enterprise Education***, Vol. 36, No. 2, pp. 1-17.  
 with [Alexandre Padilla][AP] (Metropolitan State University of Denver)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3375424" class="fancy-button-blue">SSRN version</a>
 
-[50] 2021. [Microfoundations and Macroeconomics: 20 Years][P50]  
+[51] 2021. [Microfoundations and Macroeconomics: 20 Years][P51]  
 ***The Review of Austrian Economics***, Vol.34, No. 2, pp. 279-288  
 DOI: 10.1007/s11138-020-00500-1  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3569069" class="fancy-button-blue">SSRN version</a>
 
-[49] 2021. [The Federal Reserve's Response to the Covid-19 Contraction: An Initial Appraisal][P49]  
+[50] 2021. [The Federal Reserve's Response to the Covid-19 Contraction: An Initial Appraisal][P50]  
 ***Southern Economic Journal***, Vol. 87, No. 4, pp. 1152-1174  
 DOI: 10.1002/soej.12498  
 with [Bryan P. Cutsinger][BC] (Angelo State University), [Thomas L. Hogan][TH] (American Institute for Economic Research), [William J. Luther][WL] (Florida Atlantic University), and [Alexander W. Salter][AS] (Texas Tech University)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3726345" class="fancy-button-blue">SSRN version</a>
 
-[48] 2021. [Immigration and Institutional Change: Did Mass Immigration Cause Peronism in Argentina?][P48]  
+[49] 2021. [Immigration and Institutional Change: Did Mass Immigration Cause Peronism in Argentina?][P49]  
 ***Journal of Economic Behavior and Organization***, Vol. 184 (April), pp. 1-15  
 DOI: 10.1016/j.jebo.2021.01.027  
 with [Alexandre Padilla][AP] (Metropolitan State University of Denver) and [Alejandro O. Gomez][AG] (UCEMA)
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3764194" class="fancy-button-blue">SSRN version</a>
 
-[47] 2021. [Why Did Inflation Targeting Fail in Argentina?][P47]  
+[48] 2021. [Why Did Inflation Targeting Fail in Argentina?][P48]  
 ***Quarterly Review of Economics and Finance***, Vol. 80 (May), pp. 102-116  
 DOI: 10.1016/j.qref.2021.01.014
 with Federico Julián Ferrelli Mazza (ESEADE)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3384731" class="fancy-button-blue">SSRN version</a>
+
+[47] 2020. [The Upper Turning Point in the Austrian Business Cycle Theory][P47]  
+***The Review of Austrian Economics***  , Vol. 22, No. 1-2, pp. 187-200.  
+DOI: 10.1007/s11138-019-00497-2  
+with [Anthony J. Evans][AV] (ESCP Europe Business School) and Robert Thorpe  
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3145284" class="fancy-button-blue">SSRN version</a>
 
 [46] 2020. [A Panel Data Analysis of Latin American Populism][P46]  
 ***Constitutional Political Economy***, Vol. 31, No. 3, pp. 321-343  
@@ -425,15 +425,17 @@ In Ravier, A. (ed.) ***Lecturas de Historia del Pensamiento Económico***. Madri
 
 
 <!-- HYPERLINKS TO JOURNAL ARTICLES -->
-[P51]: <http://journal.apee.org/index.php/PARTE1_2021_Journal_of_Private_Enterprise_Vol_36_No_2_Summer>
+[P52]: <http://journal.apee.org/index.php/PARTE1_2021_Journal_of_Private_Enterprise_Vol_36_No_2_Summer>
 
-[P50]: <https://link.springer.com/article/10.1007/s11138-020-00500-1>
+[P51]: <https://link.springer.com/article/10.1007/s11138-020-00500-1>
 
-[P49]: <https://onlinelibrary.wiley.com/doi/10.1002/soej.12498>
+[P50]: <https://onlinelibrary.wiley.com/doi/10.1002/soej.12498>
 
-[P48]: <https://www.sciencedirect.com/science/article/abs/pii/S0167268121000408>
+[P49]: <https://www.sciencedirect.com/science/article/abs/pii/S0167268121000408>
 
-[P47]: <https://www.sciencedirect.com/science/article/abs/pii/S106297692100020X>
+[P48]: <https://www.sciencedirect.com/science/article/abs/pii/S106297692100020X>
+
+[P47]: <https://link.springer.com/article/10.1007/s11138-019-00497-2>
 
 [P46]: <https://link.springer.com/article/10.1007%2Fs10602-020-09302-w?fbclid=IwAR3lPfONbc7wUGQf8k6jabt-HtjbskOnjSok2Xue4yDexT0yIzfv5tzH1h4>
 
