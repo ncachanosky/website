@@ -83,7 +83,7 @@ DOI: 10.1007/s11138-021-00548-7
 with [Adrián O. Ravier][AR] (ESEADE)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3753634" class="fancy-button-blue">SSRN version</a>
 
-[52] 2022. [The Upper Turning Point in the Austrian Business Cycle Theory  ][P52]
+[52] 2022. [The Upper Turning Point in the Austrian Business Cycle Theory][P52]  
 ***The Review of Austrian Economics***, Vol. 35, No. 1, pp. 89-97  
 DOI: 10.1007/s11138-019-00497-2  
 with [Anthony J. Evans][AV] (ESCP Europe Business School) and Robert Thorpe  
