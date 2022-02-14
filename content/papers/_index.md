@@ -83,8 +83,8 @@ DOI: 10.1007/s11138-021-00548-7
 with [Adrián O. Ravier][AR] (ESEADE)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3753634" class="fancy-button-blue">SSRN version</a>
 
-[52] *Forthcoming*. The Upper Turning Point in the Austrian Business Cycle Theory  
-***The Review of Austrian Economics***  
+[52] 2022. [The Upper Turning Point in the Austrian Business Cycle Theory  ][P52]
+***The Review of Austrian Economics***, Vol. 35, No. 1, pp. 89-97  
 DOI: 10.1007/s11138-019-00497-2  
 with [Anthony J. Evans][AV] (ESCP Europe Business School) and Robert Thorpe  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3145284" class="fancy-button-blue">SSRN version</a>
@@ -425,6 +425,8 @@ In Ravier, A. (ed.) ***Lecturas de Historia del Pensamiento Económico***. Madri
 
 
 <!-- HYPERLINKS TO JOURNAL ARTICLES -->
+[P52]: <https://link.springer.com/article/10.1007/s11138-019-00497-2>
+
 [P51]: <http://journal.apee.org/index.php/PARTE1_2021_Journal_of_Private_Enterprise_Vol_36_No_2_Summer>
 
 [P50]: <https://link.springer.com/article/10.1007/s11138-020-00500-1>
