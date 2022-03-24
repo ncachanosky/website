@@ -8,34 +8,40 @@ header:
 ---
 
 ---
+[05] *Forthcoming*. Dolarización: Una Solución para Argentina  
+***Claridad***    
+with [Emilio Ocampo][EO] (Universidad del CEMA)
+
+{{< figure src="Book 5.jpg" lightbox="true" width="182">}}
+
 [04] 2020. [Capital and Finance: Theory and History][B04]  
 ***Routledge***  
 ISBN-13: 978-0367143725  
 with [Peter Lewin][PL] (University of Texas at Dallas)
 
-{{< figure src="Book 4.jpg" lightbox="true" >}}
+{{< figure src="Book 4.jpg" lightbox="true" width="182" >}}
 
----
+--- 
 [03] 2019. [Austrian Capital Theory: A Modern Survey of the Essentials][B03]  
 ***Cambridge University Press***  
 ISBN-13: 978-1108735889  
 with [Peter Lewin][PL] (University of Texas at Dallas)
 
-{{< figure src="Book 3.jpg" lightbox="true" >}}
+{{< figure src="Book 3.jpg" lightbox="true" width="182" >}}
 
 ---
 [02] 2019. [Monetary Equilibrium and Nominal Income Targeting][B02]  
 ***Routledge***  
 ISBN-13: 978-1138215023
 
-{{< figure src="Book 2.jpg" lightbox="true" >}}
+{{< figure src="Book 2.jpg" lightbox="true" width="182" >}}
 
 ---
 [01] 2017. [Reflexiones Sobre la Economía Argentina][B01]  
 ***Instituto Acton Argentina***  
 ASIN: B0768L23G2
 
-{{< figure src="Book 1.jpg" lightbox="true" >}}
+{{< figure src="Book 1.jpg" lightbox="true" width="182" >}}
 
 
 
@@ -54,3 +60,5 @@ ASIN: B0768L23G2
 <!-- HYPERLINKS TO CO-AUTHORS -->
 <!-- Peter Lewin -->
 [PL]: <http://www.utdallas.edu/~plewin/>
+
+[EO]: <https://ucema.edu.ar/cgi-bin/profesores/listap.pl?id=15534>
