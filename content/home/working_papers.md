@@ -27,7 +27,7 @@ design:
 
 ---
 
-[1] [**Can Dollarization Constrain a Populist Leader? The Case of Rafael Correa in Ecuador**](https://hq.ssrn.com/submissions/MyPapers.cfm?partid=1548306&redirectFrom=true)  
+[1] [**Can Dollarization Constrain a Populist Leader? The Case of Rafael Correa in Ecuador**](https://papers.ssrn.com/abstract=3988413)  
 with [Alexander W. Salter](https://www.awsalter.com/) (Texas Tech University) and Ignacio Savanti (Universidad del CEMA)
 
 [2] **Lender of Last Resort in Dollarized Economics: Lessons from Latin America**  
