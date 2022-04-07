@@ -48,7 +48,7 @@ design:
 ### [Association of Private Enterprise Education (APEE)](https://www.apee.org/)
 
 {{< icon name="user-graduate"      >}} | **President**  
-{{< icon name="calendar-check"     >}} | 2021 - present  
+{{< icon name="calendar-check"     >}} | 2021 - 2022  
 {{< icon name="user-graduate"      >}} | **Vice President**  
 {{< icon name="calendar-check"     >}} | 2020 - 2021  
 {{< icon name="user-graduate"      >}} | **Executive Committee**  
