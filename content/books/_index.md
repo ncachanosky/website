@@ -8,8 +8,8 @@ header:
 ---
 
 ---
-[05] *Forthcoming*. Dolarización: Una Solución para Argentina  
-***Claridad***    
+[05] *Forthcoming*. [Dolarización: Una Solución para Argentina][B05]  
+***Claridad***     
 with [Emilio Ocampo][EO] (Universidad del CEMA)
 
 {{< figure src="Book 5.jpg" lightbox="true" width="182">}}
@@ -48,6 +48,8 @@ ASIN: B0768L23G2
 
 
 <!-- HYPERLINKS TO BOOKS -->
+[B05]: <https://dolarizacionunasolucionparaargentina.com/>
+
 [B04]: <https://www.routledge.com/Capital-and-Finance-Theory-and-History/Lewin-Cachanosky/p/book/9780367143725>
 
 [B03]: <https://www.cambridge.org/us/academic/subjects/economics/economics-general-interest/austrian-capital-theory-modern-survey-essentials?format=PB&isbn=9781108735889>
