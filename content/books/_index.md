@@ -10,7 +10,7 @@ header:
 ---
 [05] *Forthcoming*. [Dolarización: Una Solución para Argentina][B05]  
 ***Claridad***  
-ISBN: 978-950-620-937-7
+ISBN: 978-950-620-937-7  
 with [Emilio Ocampo][EO] (Universidad del CEMA)
 
 {{< figure src="Book 5.jpg" lightbox="true" width="182">}}
