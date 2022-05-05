@@ -15,6 +15,7 @@ with [Emilio Ocampo][EO] (Universidad del CEMA)
 
 {{< figure src="Book 5.jpg" lightbox="true" width="182">}}
 
+---
 [04] 2020. [Capital and Finance: Theory and History][B04]  
 ***Routledge***  
 ISBN-13: 978-0367143725  
