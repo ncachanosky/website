@@ -389,19 +389,19 @@ with Juan C. Cachanosky
 ---
 ## Book Chapters
 
-[08] *Forthcoming*. Capital Theory and the Theory of the Firm  
-In Bylund, P. (ed.) ***Modern Guide to Austrian Economics***.  
-with [Peter Lewin][PL] (University of Texas at Dallas)  
-
-[07] *Forthcoming*. Hayek's Two Epistemologies: Economics and Sciences in General  
+[08] *Forthcoming*. Hayek's Two Epistemologies: Economics and Sciences in General  
 In Candela, R. (ed.) ***UFM Companion to F. A. Hayek***.  
 with [Gabriel J. Zanotti][GZ] (Universidad Francisco Marroquín)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3176778" class="fancy-button-blue">SSRN version</a>
 
-[06] *Forthcoming*. Hayek's Average Period of Production: A Step Forward and a Missed Opportunity  
+[07] *Forthcoming*. Hayek's Average Period of Production: A Step Forward and a Missed Opportunity  
 In Candela, R. (ed.) ***UFM Companion to F. A. Hayek***  
 with [Peter Lewin][PL] (University of Texas at Dallas)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3132653" class="fancy-button-blue">SSRN version</a>
+
+[06] 2022. [Capital Theory and the Theory of the Firm](https://www.e-elgar.com/shop/gbp/a-modern-guide-to-austrian-economics-9781789904390.html)  
+In Bylund, P. (ed.) ***Modern Guide to Austrian Economics***.  
+with [Peter Lewin][PL] (University of Texas at Dallas) 
 
 [05] 2018. [Unintended Consequences of ECB Policies in Europe's Periphery][BC05]  
 In Godart-van der Kroon, A., and Volanthen, P. (eds.) ***Banking and Monetary Policy from the Perspective of Austrian Economics***. Springer  
