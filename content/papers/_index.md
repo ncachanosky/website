@@ -15,6 +15,11 @@ header:
 --- 
 ## Selected Journal Articles
 
+[10] *Forthcoming*. Can Dollarization Constrain a Populist Leader? The Case of Rafael Correa in Ecuador  
+***Journal of Economic Behavior and Organization***  
+with [Alexander W. Salter][AS] (Texas Tech University) and Ignacio Savanti (Universidad del CEMA)
+<a href="https://papers.ssrn.com/abstract=3988413" class="fancy-button-blue">SSRN version</a>
+
 [09] 2021. [The Federal Reserve's Response to the Covid-19 Contraction: An Initial Appraisal][P49]  
 ***Southern Economic Journal***, Vol. 87, No. 4, pp. 1152-1174    
 DOI: 10.1002/soej.12498  
@@ -71,6 +76,11 @@ with [Gabriel J. Zanotti][GZ] (Universidad Francisco Marroquín)
 
 ---
 ## All Journal Articles
+
+[55] *Forthcoming*. **Can Dollarization Constrain a Populist Leader? The Case of Rafael Correa in Ecuador**  
+***Journal of Economic Behavior and Organization***  
+with [Alexander W. Salter][AS] (Texas Tech University) and Ignacio Savanti (Universidad del CEMA)
+<a href="https://papers.ssrn.com/abstract=3988413" class="fancy-button-blue">SSRN version</a>
 
 [54] *Forthcoming*. Hermeneutics and Phenomenology in the Social Sciences: Lessons from the Austrian School of Economics Case  
 ***The Review of Austrian Economics***  

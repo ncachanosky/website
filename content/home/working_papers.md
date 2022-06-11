@@ -27,20 +27,17 @@ design:
 
 ---
 
-[1] [**Can Dollarization Constrain a Populist Leader? The Case of Rafael Correa in Ecuador**](https://papers.ssrn.com/abstract=3988413)  
-with [Alexander W. Salter](https://www.awsalter.com/) (Texas Tech University) and Ignacio Savanti (Universidad del CEMA)
-
-[2] **Lender of Last Resort in Dollarized Economics: Lessons from Latin America**  
+[1] **Lender of Last Resort in Dollarized Economics: Lessons from Latin America**  
 with [Emilio Ocampo](http://ucema.edu.ar/cgi-bin/profesores/listap.pl?id=15534) (Universida del CEMA) and John Ramseur (Metropolitan State University of Denver)
 
-[3] **20 Years of Dollarization in Ecuador: A Synthetic Control Analysis**  
+[2] **20 Years of Dollarization in Ecuador: A Synthetic Control Analysis**  
 with [Emilio Ocampo](http://ucema.edu.ar/cgi-bin/profesores/listap.pl?id=15534) (Universida del CEMA) and John Ramseur (Metropolitan State University of Denver)
 
-[4] **Dollarization as the Good Houskeeping Seal of Approval**  
+[3] **Dollarization as the Good Houskeeping Seal of Approval**  
 with [Bryan P. Cutsinger](https://www.bryancutsinger.com/) (Angelos State University) and João Pedro Bastos (Texas Tech University)
 
-[5] **Macroeconomic Populism in the 21st Century: Revisiting Dornbusch & Edwards**  
+[4] **Macroeconomic Populism in the 21st Century: Revisiting Dornbusch & Edwards**  
 with João Pedro Bastos (Texas Tech University) and Tomás Faintich (Universidad del CEMA)
 
-[6] **The Grecian Horse II: Do Immigrants Import their Home Country Institutions into their Host Countries? The Case of the United States of America**  
+[5] **The Grecian Horse II: Do Immigrants Import their Home Country Institutions into their Host Countries? The Case of the United States of America**  
 with [Alexandre Padilla](https://www.alexandrepadilla.com/) (Metropolitan State University of Denver)
