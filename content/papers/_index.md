@@ -77,7 +77,7 @@ with [Gabriel J. Zanotti][GZ] (Universidad Francisco Marroquín)
 ---
 ## All Journal Articles
 
-[55] *Forthcoming*. **Can Dollarization Constrain a Populist Leader? The Case of Rafael Correa in Ecuador**  
+[55] *Forthcoming*. Can Dollarization Constrain a Populist Leader? The Case of Rafael Correa in Ecuador  
 ***Journal of Economic Behavior and Organization***  
 with [Alexander W. Salter][AS] (Texas Tech University) and Ignacio Savanti (Universidad del CEMA)
 <a href="https://papers.ssrn.com/abstract=3988413" class="fancy-button-blue">SSRN version</a>
