@@ -15,8 +15,9 @@ header:
 --- 
 ## Selected Journal Articles
 
-[10] *Forthcoming*. Can Dollarization Constrain a Populist Leader? The Case of Rafael Correa in Ecuador  
-***Journal of Economic Behavior and Organization***  
+[10] 2022. [Can Dollarization Constrain a Populist Leader? The Case of Rafael Correa in Ecuador][P53]  
+***Journal of Economic Behavior and Organization***, Vol. 200 (August), pp. 430-442.  
+DOI: 10.1016/j.jebo.2022.06.006  
 with [Alexander W. Salter][AS] (Texas Tech University) and Ignacio Savanti (Universidad del CEMA)
 <a href="https://papers.ssrn.com/abstract=3988413" class="fancy-button-blue">SSRN version</a>
 
@@ -77,21 +78,21 @@ with [Gabriel J. Zanotti][GZ] (Universidad Francisco Marroquín)
 ---
 ## All Journal Articles
 
-[55] *Forthcoming*. Can Dollarization Constrain a Populist Leader? The Case of Rafael Correa in Ecuador  
-***Journal of Economic Behavior and Organization***  
-with [Alexander W. Salter][AS] (Texas Tech University) and Ignacio Savanti (Universidad del CEMA)
-<a href="https://papers.ssrn.com/abstract=3988413" class="fancy-button-blue">SSRN version</a>
-
-[54] *Forthcoming*. Hermeneutics and Phenomenology in the Social Sciences: Lessons from the Austrian School of Economics Case  
+[55] *Forthcoming*. Hermeneutics and Phenomenology in the Social Sciences: Lessons from the Austrian School of Economics Case  
 ***The Review of Austrian Economics***  
 with Agustina Borella (Universidad de Buenos Aires) and [Gabriel J. Zanotti][GZ] (Universidad Austral)  
 DOI: 10.1007/s11138-021-00548-7  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3596226" class="fancy-button-blue">SSRN version</a>
 
-[53] *Forthcoming*. Monetary Disorder in Buenos Aires Province (1822-1881)  
+[54] *Forthcoming*. Monetary Disorder in Buenos Aires Province (1822-1881)  
 ***The Independent Review***  
 with [Adrián O. Ravier][AR] (ESEADE)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3753634" class="fancy-button-blue">SSRN version</a>
+
+[53] 2022. [Can Dollarization Constrain a Populist Leader? The Case of Rafael Correa in Ecuador][P53]  
+***Journal of Economic Behavior and Organization***, Vol. 200 (August), pp. 430-442.  
+with [Alexander W. Salter][AS] (Texas Tech University) and Ignacio Savanti (Universidad del CEMA)
+<a href="https://papers.ssrn.com/abstract=3988413" class="fancy-button-blue">SSRN version</a>
 
 [52] 2022. [The Upper Turning Point in the Austrian Business Cycle Theory][P52]  
 ***The Review of Austrian Economics***, Vol. 35, No. 1, pp. 89-97  
@@ -435,6 +436,8 @@ In Ravier, A. (ed.) ***Lecturas de Historia del Pensamiento Económico***. Madri
 
 
 <!-- HYPERLINKS TO JOURNAL ARTICLES -->
+[P53]: <https://www.sciencedirect.com/science/article/pii/S0167268122002025?via%3Dihub>
+
 [P52]: <https://link.springer.com/article/10.1007/s11138-019-00497-2>
 
 [P51]: <http://journal.apee.org/index.php/PARTE1_2021_Journal_of_Private_Enterprise_Vol_36_No_2_Summer>
