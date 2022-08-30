@@ -19,6 +19,8 @@ Download the submission form. Input your decision for each period and upload in 
 
 ## Schedule
 
+Submission deadlines are at <span class="red">4pm</span>.
+
 ![schedule](Schedule.png)
 
 ---
