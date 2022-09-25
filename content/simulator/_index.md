@@ -70,3 +70,19 @@ Market analysts expect the following market conditions in the next period
 * Market wage for manufacturers will remain at $500  
 
 {{<icon name="file-excel" pack="fas">}}[Download period 2](Period%202.xlsx)
+
+---
+
+## Period 3
+
+Market analysts expect the following market conditions in the next period
+
+* Resource cost will remain at $1 per unit
+* Energy cost will remain at $0.5 per unit
+* GDP will growth will continue strong
+* Tax rate will remain at 35%
+* Market wage for admnistrative position will remain at $1000
+* Market wage for sales staff will remain at $750 with a 2.5% comission on sales
+* Market wage for manufacturers will remain at $500  
+
+{{<icon name="file-excel" pack="fas">}}[Download period 3](Period%203.xlsx)
