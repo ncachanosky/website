@@ -55,6 +55,7 @@ Market analysts expect the following market conditions in the next period
 
 {{<icon name="file-excel" pack="fas">}}[Download period 1](Period%201.xlsx)
 
+<!--
 ---
 
 ## Period 2
@@ -86,3 +87,5 @@ Market analysts expect the following market conditions in the next period
 * Market wage for manufacturers will remain at $500  
 
 {{<icon name="file-excel" pack="fas">}}[Download period 3](Period%203.xlsx)
+
+-->
