@@ -55,7 +55,6 @@ Market analysts expect the following market conditions in the next period
 
 {{<icon name="file-excel" pack="fas">}}[Download period 1](Period%201.xlsx)
 
-<!--
 ---
 
 ## Period 2
@@ -72,6 +71,8 @@ Market analysts expect the following market conditions in the next period
 
 {{<icon name="file-excel" pack="fas">}}[Download period 2](Period%202.xlsx)
 
+
+<!--
 ---
 
 ## Period 3
