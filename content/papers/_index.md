@@ -78,6 +78,10 @@ with [Gabriel J. Zanotti][GZ] (Universidad Francisco Marroquín)
 ---
 ## All Journal Articles
 
+[56] *Forthcoming*. Immigration and Economic Freedom of the US States:  Does the Institutional Quality of Immigrants’ Origin Countries Matter?  
+***Contemporary Economic Policy***  
+with [Alexandre Padilla][AP] (Metropolitan State University of Denver) 
+
 [55] *Forthcoming*. Hermeneutics and Phenomenology in the Social Sciences: Lessons from the Austrian School of Economics Case  
 ***The Review of Austrian Economics***  
 with Agustina Borella (Universidad de Buenos Aires) and [Gabriel J. Zanotti][GZ] (Universidad Austral)  
