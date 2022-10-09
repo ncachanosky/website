@@ -1,31 +1,36 @@
-.blue { color: #00447c; }
-.red { color: #d11242; }
-.grey { color: #717073; }
+.blue { color: #041E42; }
+.orange { color: #FF8200; }
+.grey { color: #B1B3B3; }
 
 a:hover {
-    text-decoration: underline;
-    color: #d11242
+  //  text-decoration: underline;
+    color: #FF8200;
 }
 
 .fancy-button-blue {
-    border: 1px solid #00447c;
+    border: 1px solid #041E42;
     border-radius: 0.2rem;
-    color:#00447c;
+    color:#041E42;
     padding: 5px .4rem;
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     line-height: 0.9;
 }
 
 .fancy-button-blue:hover {
     color: white;
-    background-color:#00447c;
+    background-color:#041E42;
 }
 
 .alert-dark {
     color: black;
     background-color: #d6d8d9;
     border-color: #c6c8ca;
+}
+
+h1, h2 {
+    color: #041E42;
 }
