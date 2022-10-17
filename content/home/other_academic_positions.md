@@ -31,8 +31,7 @@ design:
 ### [Free Market Institute at Texas Tech University](https://www.depts.ttu.edu/freemarketinstitute/)
 
 {{< icon name="user-graduate"      >}} | **Distinguished Visiting Scholar**  
-{{< icon name="calendar-check"     >}} | 2021 - 2022
-
+{{< icon name="calendar-check"     >}} | 2021 - 202
 ### [American Institute for Economic Research](https://www.aier.org)
 
 {{< icon name="user-graduate"      >}} | **Sound Money Project: Senior Fellow**  
@@ -57,7 +56,7 @@ design:
 ### [The Mont Pelerin Society](https://www.montpelerin.org/)
 
 {{< icon name="user-graduate"      >}} | **Board of Directors**  
-{{< icon name="calendar-check"     >}} | 2018 - present
+{{< icon name="calendar-check"     >}} | 2018 - 2022
 
 ### [Instituto Acton Argentina](https://institutoacton.org/)
 

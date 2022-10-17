@@ -38,6 +38,3 @@ with [Bryan P. Cutsinger](https://www.bryancutsinger.com/) (Angelos State Univer
 
 [4] **Macroeconomic Populism in the 21st Century: Revisiting Dornbusch & Edwards**  
 with João Pedro Bastos (Texas Tech University) and Tomás Faintich (Universidad del CEMA)
-
-[5] **The Grecian Horse II: Do Immigrants Import their Home Country Institutions into their Host Countries? The Case of the United States of America**  
-with [Alexandre Padilla](https://www.alexandrepadilla.com/) (Metropolitan State University of Denver)

@@ -1,6 +1,6 @@
 ---
 title: El Hub Económico
-summary: An economic hub wit sources and plots of the Argentine economy.
+summary: An economic hub with sources and plots of the Argentine economy.
 tags:
 - Argentina
 date: "2016-04-27T00:00:00Z"
