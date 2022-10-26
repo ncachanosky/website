@@ -404,15 +404,19 @@ with Juan C. Cachanosky
 ---
 ## Book Chapters
 
-[08] *Forthcoming*. Hayek's Two Epistemologies: Economics and Sciences in General  
+[09] *Forthcoming*. Hayek's Two Epistemologies: Economics and Sciences in General  
 In Candela, R. (ed.) ***UFM Companion to F. A. Hayek***.  
 with [Gabriel J. Zanotti][GZ] (Universidad Francisco Marroquín)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3176778" class="fancy-button-blue">SSRN version</a>
 
-[07] *Forthcoming*. Hayek's Average Period of Production: A Step Forward and a Missed Opportunity  
+[08] *Forthcoming*. Hayek's Average Period of Production: A Step Forward and a Missed Opportunity  
 In Candela, R. (ed.) ***UFM Companion to F. A. Hayek***  
 with [Peter Lewin][PL] (University of Texas at Dallas)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3132653" class="fancy-button-blue">SSRN version</a>
+
+[07] 2022. [Can Cryptocurrencies become a Commonly Accepted Means of exchange?][BC07]  
+In Caton, J. (ed.) ***The Economics of Blockchain and Cryptocurrency***.  
+<a href="https://papers.ssrn.com/abstract=3660521" class="fancy-button-blue">SSRN version</a>
 
 [06] 2022. [Capital Theory and the Theory of the Firm](https://www.e-elgar.com/shop/gbp/a-modern-guide-to-austrian-economics-9781789904390.html)  
 In Bylund, P. (ed.) ***Modern Guide to Austrian Economics***.  
@@ -562,6 +566,8 @@ In Ravier, A. (ed.) ***Lecturas de Historia del Pensamiento Económico***. Madri
 
 
 <!-- HYPERLINKS TO BOOK CHAPTERS -->
+[BC07]: <https://www.e-elgar.com/shop/usd/the-economics-of-blockchain-and-cryptocurrency-9781800882331.html>
+
 [BC05]: <https://www.springer.com/us/book/9783319758169?msclkid=27b03cb7844b1d1984a867a8448337af&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping%20%7C%20US&utm_term=1101200786988&utm_content=All%20eBooks#aboutBook>
 
 [BC03]: <https://www.amazon.com/Libertad-convicciones-Ensayos-Cachanosky-1953-2015-ebook/dp/B07477VJT8/ref=sr_1_1?ie=UTF8&qid=1503468198&sr=8-1&keywords=juan+cachanosky>
