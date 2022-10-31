@@ -104,3 +104,18 @@ Market analysts expect the following market conditions in the next period
 * Market wage for manufacturers will remain at $500  
 
 {{<icon name="file-excel" pack="fas">}}[Download period 4](Period%204.xlsx)
+
+
+---
+
+## Period 5
+
+Market analysts expect the following market conditions in the next period
+
+* Resource cost will remain at $1 per unit
+* Energy cost will remain at $0.5 per unit
+* GDP is expected to continue falling at an accelerated pace
+* Tax rate increases are expected in the near future
+* Labor unions in all sectors of the economy are pushing for wage increases
+
+{{<icon name="file-excel" pack="fas">}}[Download period 4](Period%205.xlsx)
