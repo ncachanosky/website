@@ -119,3 +119,18 @@ Market analysts expect the following market conditions in the next period
 * Labor unions in all sectors of the economy are pushing for wage increases
 
 {{<icon name="file-excel" pack="fas">}}[Download period 5](Period%205.xlsx)
+
+
+---
+
+## Period 6
+
+Market analysts expect the following market conditions in the next period
+
+* Resource cost will remain at $1 per unit
+* Energy cost will remain at $0.5 per unit
+* GDP is expected to cfall around 1%
+* A proposal to increase taxes 5% is gaining momentum
+* No changes in wages are expected in the near future
+
+{{<icon name="file-excel" pack="fas">}}[Download period 6](Period%206.xlsx)
