@@ -134,3 +134,18 @@ Market analysts expect the following market conditions in the next period
 * No changes in wages are expected in the near future
 
 {{<icon name="file-excel" pack="fas">}}[Download period 6](Period%206.xlsx)
+
+
+---
+
+## Period 7
+
+Market analysts expect the following market conditions in the next period
+
+* Resource cost will remain at $1 per unit
+* Energy cost will remain at $0.5 per unit
+* GDP is expected to continue growing at a stable rate
+* No new talk about tax hikes are on place
+* No changes in wages are expected in the near future
+
+{{<icon name="file-excel" pack="fas">}}[Download period 7](Period%207.xlsx)
