@@ -1,0 +1,14 @@
+# Font style metadata
+name = "utep"
+
+# Optional Google font URL
+google_fonts = "family=Open+Sans&Roboto+Condensed"
+
+
+# Font families
+heading_font = "Roboto Condensed"
+
+body_font = "Open Sans"
+nav_font = "Roboto Condensed"
+
+mono_font = "Inconsolata"

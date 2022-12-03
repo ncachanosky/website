@@ -8,12 +8,14 @@ header:
 ---
 
 ---
-[05] *Forthcoming*. [Dolarización: Una Solución para Argentina][B05]  
-***Claridad***     
+[05] 2022. [Dolarización: Una Solución para Argentina][B05]  
+***Claridad***  
+ISBN: 978-950-620-937-7  
 with [Emilio Ocampo][EO] (Universidad del CEMA)
 
 {{< figure src="Book 5.jpg" lightbox="true" width="182">}}
 
+---
 [04] 2020. [Capital and Finance: Theory and History][B04]  
 ***Routledge***  
 ISBN-13: 978-0367143725  

@@ -15,6 +15,12 @@ header:
 --- 
 ## Selected Journal Articles
 
+[10] 2022. [Can Dollarization Constrain a Populist Leader? The Case of Rafael Correa in Ecuador][P53]  
+***Journal of Economic Behavior and Organization***, Vol. 200 (August), pp. 430-442.  
+DOI: 10.1016/j.jebo.2022.06.006  
+with [Alexander W. Salter][AS] (Texas Tech University) and Ignacio Savanti (Universidad del CEMA)
+<a href="https://papers.ssrn.com/abstract=3988413" class="fancy-button-blue">SSRN version</a>
+
 [09] 2021. [The Federal Reserve's Response to the Covid-19 Contraction: An Initial Appraisal][P49]  
 ***Southern Economic Journal***, Vol. 87, No. 4, pp. 1152-1174    
 DOI: 10.1002/soej.12498  
@@ -72,16 +78,25 @@ with [Gabriel J. Zanotti][GZ] (Universidad Francisco Marroquín)
 ---
 ## All Journal Articles
 
-[54] *Forthcoming*. Hermeneutics and Phenomenology in the Social Sciences: Lessons from the Austrian School of Economics Case  
+[56] *Forthcoming*. Immigration and Economic Freedom of the US States:  Does the Institutional Quality of Immigrants’ Origin Countries Matter?  
+***Contemporary Economic Policy***  
+with [Alexandre Padilla][AP] (Metropolitan State University of Denver) 
+
+[55] *Forthcoming*. Hermeneutics and Phenomenology in the Social Sciences: Lessons from the Austrian School of Economics Case  
 ***The Review of Austrian Economics***  
 with Agustina Borella (Universidad de Buenos Aires) and [Gabriel J. Zanotti][GZ] (Universidad Austral)  
 DOI: 10.1007/s11138-021-00548-7  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3596226" class="fancy-button-blue">SSRN version</a>
 
-[53] *Forthcoming*. Monetary Disorder in Buenos Aires Province (1822-1881)  
-***The Independent Review***  
+[54] 2022. Monetary Disorder in Buenos Aires Province (1822-1881)  
+***The Independent Review***, Vol. 27, No. 1  
 with [Adrián O. Ravier][AR] (ESEADE)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3753634" class="fancy-button-blue">SSRN version</a>
+
+[53] 2022. [Can Dollarization Constrain a Populist Leader? The Case of Rafael Correa in Ecuador][P53]  
+***Journal of Economic Behavior and Organization***, Vol. 200 (August), pp. 430-442.  
+with [Alexander W. Salter][AS] (Texas Tech University) and Ignacio Savanti (Universidad del CEMA)
+<a href="https://papers.ssrn.com/abstract=3988413" class="fancy-button-blue">SSRN version</a>
 
 [52] 2022. [The Upper Turning Point in the Austrian Business Cycle Theory][P52]  
 ***The Review of Austrian Economics***, Vol. 35, No. 1, pp. 89-97  
@@ -389,19 +404,23 @@ with Juan C. Cachanosky
 ---
 ## Book Chapters
 
-[08] *Forthcoming*. Capital Theory and the Theory of the Firm  
-In Bylund, P. (ed.) ***Modern Guide to Austrian Economics***.  
-with [Peter Lewin][PL] (University of Texas at Dallas)  
-
-[07] *Forthcoming*. Hayek's Two Epistemologies: Economics and Sciences in General  
+[09] *Forthcoming*. Hayek's Two Epistemologies: Economics and Sciences in General  
 In Candela, R. (ed.) ***UFM Companion to F. A. Hayek***.  
 with [Gabriel J. Zanotti][GZ] (Universidad Francisco Marroquín)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3176778" class="fancy-button-blue">SSRN version</a>
 
-[06] *Forthcoming*. Hayek's Average Period of Production: A Step Forward and a Missed Opportunity  
+[08] *Forthcoming*. Hayek's Average Period of Production: A Step Forward and a Missed Opportunity  
 In Candela, R. (ed.) ***UFM Companion to F. A. Hayek***  
 with [Peter Lewin][PL] (University of Texas at Dallas)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3132653" class="fancy-button-blue">SSRN version</a>
+
+[07] 2022. [Can Cryptocurrencies become a Commonly Accepted Means of exchange?][BC07]  
+In Caton, J. (ed.) ***The Economics of Blockchain and Cryptocurrency***.  
+<a href="https://papers.ssrn.com/abstract=3660521" class="fancy-button-blue">SSRN version</a>
+
+[06] 2022. [Capital Theory and the Theory of the Firm](https://www.e-elgar.com/shop/gbp/a-modern-guide-to-austrian-economics-9781789904390.html)  
+In Bylund, P. (ed.) ***Modern Guide to Austrian Economics***.  
+with [Peter Lewin][PL] (University of Texas at Dallas) 
 
 [05] 2018. [Unintended Consequences of ECB Policies in Europe's Periphery][BC05]  
 In Godart-van der Kroon, A., and Volanthen, P. (eds.) ***Banking and Monetary Policy from the Perspective of Austrian Economics***. Springer  
@@ -425,6 +444,8 @@ In Ravier, A. (ed.) ***Lecturas de Historia del Pensamiento Económico***. Madri
 
 
 <!-- HYPERLINKS TO JOURNAL ARTICLES -->
+[P53]: <https://www.sciencedirect.com/science/article/pii/S0167268122002025?via%3Dihub>
+
 [P52]: <https://link.springer.com/article/10.1007/s11138-019-00497-2>
 
 [P51]: <http://journal.apee.org/index.php/PARTE1_2021_Journal_of_Private_Enterprise_Vol_36_No_2_Summer>
@@ -545,6 +566,8 @@ In Ravier, A. (ed.) ***Lecturas de Historia del Pensamiento Económico***. Madri
 
 
 <!-- HYPERLINKS TO BOOK CHAPTERS -->
+[BC07]: <https://www.e-elgar.com/shop/usd/the-economics-of-blockchain-and-cryptocurrency-9781800882331.html>
+
 [BC05]: <https://www.springer.com/us/book/9783319758169?msclkid=27b03cb7844b1d1984a867a8448337af&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping%20%7C%20US&utm_term=1101200786988&utm_content=All%20eBooks#aboutBook>
 
 [BC03]: <https://www.amazon.com/Libertad-convicciones-Ensayos-Cachanosky-1953-2015-ebook/dp/B07477VJT8/ref=sr_1_1?ie=UTF8&qid=1503468198&sr=8-1&keywords=juan+cachanosky>
