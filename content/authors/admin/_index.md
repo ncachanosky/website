@@ -74,7 +74,6 @@ I'm Professor of Economics at [Metropolitan State University of Denver](http://w
 
 In this website you can find information about my research and projects. I also blog at [Economic Order](https://economicorder.substack.com/).
 
-
 ---
 
 {{<icon name="file-download" pack="fas">}} {{% staticref "uploads/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
