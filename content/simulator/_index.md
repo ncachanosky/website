@@ -192,4 +192,4 @@ Market analysts expect the following market conditions in the next period
 * Taxes are expected to remain unchanged
 * No changes in wages are expected in the near future
 
-{{<icon name="file-excel" pack="fas">}}[Download period 10](Period%210.xlsx)
+{{<icon name="file-excel" pack="fas">}}[Download period 10](Period%2010.xlsx)
