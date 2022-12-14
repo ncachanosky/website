@@ -179,3 +179,17 @@ Market analysts expect the following market conditions in the next period
 * No changes in wages are expected in the near future
 
 {{<icon name="file-excel" pack="fas">}}[Download period 9](Period%209.xlsx)
+
+---
+
+## Period 10
+
+Market analysts expect the following market conditions in the next period
+
+* Resource cost will remain at $1 per unit
+* Energy cost will remain at $0.5 per unit
+* GDP is expected to conitnue its slowdown
+* Taxes are expected to remain unchanged
+* No changes in wages are expected in the near future
+
+{{<icon name="file-excel" pack="fas">}}[Download period 10](Period%210.xlsx)
