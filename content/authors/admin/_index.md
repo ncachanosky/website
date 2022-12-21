@@ -6,15 +6,15 @@ title: Nicolás Cachanosky
 superuser: true
 
 # Role/position/tagline
-role: Professor of Economics
+role: Director | Center for Free Enterprise
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Metropolitan State University of Denver
-  url: https://www.msudenver.edu/
+- name: University of Texas at El Paso
+  url: https://www.utep.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: N. Cachanosky | MSU Denver
+bio: N. Cachanosky | UTEP
 
 # Interests to show in About widget
 #interests:
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:ncachano@msudenver.edu
+  link: mailto:ncachanosky@utep.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/n_cachanosky
@@ -70,7 +70,7 @@ email: "ncachanosky@outlook.com"
 highlight_name: false
 ---
 
-I'm Professor of Economics at [Metropolitan State University of Denver](http://www.msudenver.edu/) (MSU Denver) Department of Economics, Senior Fellow at the [American Institute of Economic Research](http://www.aier.org/) (AIER), and Fellow of the [UCEMA Friedman-Hayek Center for the Study of a Free Society](https://ucema.edu.ar/friedman-hayek-center). I also serve as co-editor of [LIBERTAS: Segunda Época](http://www.journallibertas.com/). I'm past president of the [Association of Private Enterprise Education](https://www.apee.org/) (APEE) and former director of [The Mont Pelerin Society](https://www.montpelerin.org/) (MPS).
+I'm Associate Professor of Economics and Director of the Center for Free Enterprise at [University of Texas at El Paso](https://www.utep.edu/), Senior Fellow at the [American Institute of Economic Research](http://www.aier.org/) (AIER), and Fellow of the [UCEMA Friedman-Hayek Center for the Study of a Free Society](https://ucema.edu.ar/friedman-hayek-center). I also serve as co-editor of [LIBERTAS: Segunda Época](http://www.journallibertas.com/). I'm past president of the [Association of Private Enterprise Education](https://www.apee.org/) (APEE) and former director of [The Mont Pelerin Society](https://www.montpelerin.org/) (MPS).
 
 In this website you can find information about my research and projects. I also blog at [Economic Order](https://economicorder.substack.com/).
 
