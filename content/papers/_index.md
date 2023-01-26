@@ -88,7 +88,7 @@ with Agustina Borella (Universidad de Buenos Aires) and [Gabriel J. Zanotti][GZ]
 DOI: 10.1007/s11138-021-00548-7  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3596226" class="fancy-button-blue">SSRN version</a>
 
-[54] 2022. Monetary Disorder in Buenos Aires Province (1822-1881)  
+[54] 2022. [Monetary Disorder in Buenos Aires Province (1822-1881)][P54]  
 ***The Independent Review***, Vol. 27, No. 1  
 with [Adrián O. Ravier][AR] (ESEADE)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3753634" class="fancy-button-blue">SSRN version</a>
@@ -444,6 +444,8 @@ In Ravier, A. (ed.) ***Lecturas de Historia del Pensamiento Económico***. Madri
 
 
 <!-- HYPERLINKS TO JOURNAL ARTICLES -->
+[P54]: <https://www.independent.org/publications/tir/article.asp?id=1716>
+
 [P53]: <https://www.sciencedirect.com/science/article/pii/S0167268122002025?via%3Dihub>
 
 [P52]: <https://link.springer.com/article/10.1007/s11138-019-00497-2>
