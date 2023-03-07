@@ -31,7 +31,7 @@ design:
 ### [Free Market Institute at Texas Tech University](https://www.depts.ttu.edu/freemarketinstitute/)
 
 {{< icon name="user-graduate"      >}} | **Distinguished Visiting Scholar**  
-{{< icon name="calendar-check"     >}} | 2021 - 202
+{{< icon name="calendar-check"     >}} | 2021 - 2022
 ### [American Institute for Economic Research](https://www.aier.org)
 
 {{< icon name="user-graduate"      >}} | **Sound Money Project: Senior Fellow**  

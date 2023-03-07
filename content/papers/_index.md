@@ -78,6 +78,10 @@ with [Gabriel J. Zanotti][GZ] (Universidad Francisco Marroquín)
 ---
 ## All Journal Articles
 
+[57] *Forthcoming*. Lessons From Dollarization in Latin America in the 21st Century  
+***The Economists' Voice***
+with [Emilio Ocampo][EO] (Universidad del CEMA) and [Alexander W. Salter][AS] (Texas Tech University)
+
 [56] *Forthcoming*. Immigration and Economic Freedom of the US States:  Does the Institutional Quality of Immigrants’ Origin Countries Matter?  
 ***Contemporary Economic Policy***  
 with [Alexandre Padilla][AP] (Metropolitan State University of Denver) 
@@ -608,6 +612,9 @@ In Ravier, A. (ed.) ***Lecturas de Historia del Pensamiento Económico***. Madri
 
 <!-- Nair, Malavika -->
 [MN]: <http://www.malavikanair.com/>
+
+<!-- Ocampo, Emilio -->
+[EO]: <https://ucema.edu.ar/personal/emilio-ocampo>
 
 <!-- Padilla, Alex -->
 [AP]: <http://www.alexandrepadilla.com/home>
