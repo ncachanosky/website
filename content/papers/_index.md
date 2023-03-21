@@ -80,11 +80,13 @@ with [Gabriel J. Zanotti][GZ] (Universidad Francisco Marroquín)
 
 [57] *Forthcoming*. Lessons From Dollarization in Latin America in the 21st Century  
 ***The Economists' Voice***  
-with [Emilio Ocampo][EO] (Universidad del CEMA) and [Alexander W. Salter][AS] (Texas Tech University)
+with [Emilio Ocampo][EO] (Universidad del CEMA) and [Alexander W. Salter][AS] (Texas Tech University)  
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4318258" class="fancy-button-blue">SSRN version</a>
 
 [56] *Forthcoming*. Immigration and Economic Freedom of the US States:  Does the Institutional Quality of Immigrants’ Origin Countries Matter?  
 ***Contemporary Economic Policy***  
-with [Alexandre Padilla][AP] (Metropolitan State University of Denver) 
+with [Alexandre Padilla][AP] (Metropolitan State University of Denver)  
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3316415" class="fancy-button-blue">SSRN version</a>
 
 [55] *Forthcoming*. Hermeneutics and Phenomenology in the Social Sciences: Lessons from the Austrian School of Economics Case  
 ***The Review of Austrian Economics***  
