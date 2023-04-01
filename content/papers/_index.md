@@ -80,6 +80,7 @@ with [Gabriel J. Zanotti][GZ] (Universidad Francisco Marroquín)
 
 [57] *Forthcoming*. Lessons From Dollarization in Latin America in the 21st Century  
 ***The Economists' Voice***  
+DOI: 10.1515/ev-2023-0001  
 with [Emilio Ocampo][EO] (Universidad del CEMA) and [Alexander W. Salter][AS] (Texas Tech University)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4318258" class="fancy-button-blue">SSRN version</a>
 
