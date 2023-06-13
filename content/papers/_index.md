@@ -11,6 +11,7 @@ header:
 - [All Journal Articles](#all-journal-articles)
 - [Non-Refereed Journal Articles](#non-refereed-journal-articles)
 - [Book Chapters](#book-chapters)
+- [Working Papers](#working-papers)
 
 --- 
 ## Selected Journal Articles
@@ -446,8 +447,15 @@ with [Alexandre Padilla][AP] (Metropolitan State University of Denver)
 [01] 2012. [Una Introducción a la Economía Clásica][BC01]  
 In Ravier, A. (ed.) ***Lecturas de Historia del Pensamiento Económico***. Madrid: Unión Editorial. Chapter VIII, pp. 147-166
 
+---
+## Working Papers
+[02] 2023. [Dollarization Dynamics: A Comment][WP02]  
+Universidad del CEMA. Documentos de Trabajo 855  
+with [Emilio Ocampo][EO] (Universidad del CEMA)
 
-
+[01] 2023. [Is Inflation Caused by Conflict][WP01]  
+Universidad del CEMA. Documentos de Trabajo 852  
+with [Emilio Ocampo][EO] (Universidad del CEMA)
 
 
 <!-- HYPERLINKS TO JOURNAL ARTICLES -->
@@ -584,6 +592,11 @@ In Ravier, A. (ed.) ***Lecturas de Historia del Pensamiento Económico***. Madri
 [BC02]: <http://www.amazon.com/Economics-Immigration-Market-Based-Approaches-Science/dp/0190258799/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=>
 
 [BC01]: <http://unioneditorial.es/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=237&category_id=17&option=com_virtuemart&Itemid=22>
+
+<!-- HYPERLINKS TO JOURNAL ARTICLES -->
+[WP02]: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4476965>
+
+[WP01]: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437371>
 
 <!-- HYPERLINKS TO CO-AUTHORS -->
 <!-- Braun, Eduard -->
