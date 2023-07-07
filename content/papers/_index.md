@@ -85,19 +85,19 @@ DOI: 10.1515/ev-2023-0001
 with [Emilio Ocampo][EO] (Universidad del CEMA) and [Alexander W. Salter][AS] (Texas Tech University)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4318258" class="fancy-button-blue">SSRN version</a>
 
-[56] *Forthcoming*. Immigration and Economic Freedom of the US States:  Does the Institutional Quality of Immigrants’ Origin Countries Matter?  
-***Contemporary Economic Policy***  
-with [Alexandre Padilla][AP] (Metropolitan State University of Denver)  
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3316415" class="fancy-button-blue">SSRN version</a>
-
-[55] *Forthcoming*. Hermeneutics and Phenomenology in the Social Sciences: Lessons from the Austrian School of Economics Case  
+[56] *Forthcoming*. Hermeneutics and Phenomenology in the Social Sciences: Lessons from the Austrian School of Economics Case  
 ***The Review of Austrian Economics***  
 with Agustina Borella (Universidad de Buenos Aires) and [Gabriel J. Zanotti][GZ] (Universidad Austral)  
 DOI: 10.1007/s11138-021-00548-7  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3596226" class="fancy-button-blue">SSRN version</a>
 
+[55] 2023. [Immigration and Economic Freedom of the US States:  Does the Institutional Quality of Immigrants’ Origin Countries Matter?][P55]  
+***Contemporary Economic Policy***, Vol. 41, No. 3, pp. 489-512  
+with [Alexandre Padilla][AP] (Metropolitan State University of Denver)  
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3316415" class="fancy-button-blue">SSRN version</a>
+
 [54] 2022. [Monetary Disorder in Buenos Aires Province (1822-1881)][P54]  
-***The Independent Review***, Vol. 27, No. 1  
+***The Independent Review***, Vol. 27, No. 1, pp. 23-35.  
 with [Adrián O. Ravier][AR] (ESEADE)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3753634" class="fancy-button-blue">SSRN version</a>
 
@@ -459,6 +459,8 @@ with [Emilio Ocampo][EO] (Universidad del CEMA)
 
 
 <!-- HYPERLINKS TO JOURNAL ARTICLES -->
+[P55]: <https://onlinelibrary.wiley.com/doi/10.1111/coep.12595>
+
 [P54]: <https://www.independent.org/publications/tir/article.asp?id=1716>
 
 [P53]: <https://www.sciencedirect.com/science/article/pii/S0167268122002025?via%3Dihub>
