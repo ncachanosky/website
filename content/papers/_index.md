@@ -79,20 +79,20 @@ with [Gabriel J. Zanotti][GZ] (Universidad Francisco Marroquín)
 ---
 ## All Journal Articles
 
-[57] *Forthcoming*. Lessons From Dollarization in Latin America in the 21st Century  
-***The Economists' Voice***  
-DOI: 10.1515/ev-2023-0001  
-with [Emilio Ocampo][EO] (Universidad del CEMA) and [Alexander W. Salter][AS] (Texas Tech University)  
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4318258" class="fancy-button-blue">SSRN version</a>
-
-[56] *Forthcoming*. Hermeneutics and Phenomenology in the Social Sciences: Lessons from the Austrian School of Economics Case  
+[57] *Forthcoming*. Hermeneutics and Phenomenology in the Social Sciences: Lessons from the Austrian School of Economics Case  
 ***The Review of Austrian Economics***  
 with Agustina Borella (Universidad de Buenos Aires) and [Gabriel J. Zanotti][GZ] (Universidad Austral)  
 DOI: 10.1007/s11138-021-00548-7  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3596226" class="fancy-button-blue">SSRN version</a>
 
+[56] 2023. [Lessons From Dollarization in Latin America in the 21st Century][P56]  
+***The Economists' Voice***, Vol. 20, No. 1, pp. 25-42.  
+DOI: 10.1515/ev-2023-0001  
+with [Emilio Ocampo][EO] (Universidad del CEMA) and [Alexander W. Salter][AS] (Texas Tech University)  
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4318258" class="fancy-button-blue">SSRN version</a>
+
 [55] 2023. [Immigration and Economic Freedom of the US States:  Does the Institutional Quality of Immigrants’ Origin Countries Matter?][P55]  
-***Contemporary Economic Policy***, Vol. 41, No. 3, pp. 489-512  
+***Contemporary Economic Policy***, Vol. 41, No. 3, pp. 489-512.  
 with [Alexandre Padilla][AP] (Metropolitan State University of Denver)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3316415" class="fancy-button-blue">SSRN version</a>
 
@@ -459,6 +459,8 @@ with [Emilio Ocampo][EO] (Universidad del CEMA)
 
 
 <!-- HYPERLINKS TO JOURNAL ARTICLES -->
+[P56]: <https://www.degruyter.com/document/doi/10.1515/ev-2023-0001/html>
+
 [P55]: <https://onlinelibrary.wiley.com/doi/10.1111/coep.12595>
 
 [P54]: <https://www.independent.org/publications/tir/article.asp?id=1716>
