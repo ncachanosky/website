@@ -412,15 +412,20 @@ with Juan C. Cachanosky
 ---
 ## Book Chapters
 
-[09] *Forthcoming*. Hayek's Two Epistemologies: Economics and Sciences in General  
+[10] *Forthcoming*. Hayek's Two Epistemologies: Economics and Sciences in General  
 In Candela, R. (ed.) ***UFM Companion to F. A. Hayek***.  
 with [Gabriel J. Zanotti][GZ] (Universidad Francisco Marroquín)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3176778" class="fancy-button-blue">SSRN version</a>
 
-[08] *Forthcoming*. Hayek's Average Period of Production: A Step Forward and a Missed Opportunity  
+[09] *Forthcoming*. Hayek's Average Period of Production: A Step Forward and a Missed Opportunity  
 In Candela, R. (ed.) ***UFM Companion to F. A. Hayek***  
 with [Peter Lewin][PL] (University of Texas at Dallas)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3132653" class="fancy-button-blue">SSRN version</a>
+
+[08] 2023. [Accounting and Finance: Capital and Cost in Economics][BC08]  
+In Horwitz, S., and Rouanet, L. (eds.) ***A Research Agenda for Austrian Economics***  
+with [Peter Lewin][PL] (University of Texas at Dallas)  
+<a href="https://papers.ssrn.com/abstract=3848142" class="fancy-button-blue">SSRN version</a>
 
 [07] 2022. [Can Cryptocurrencies become a Commonly Accepted Means of exchange?][BC07]  
 In Caton, J. (ed.) ***The Economics of Blockchain and Cryptocurrency***.  
@@ -587,6 +592,8 @@ with [Emilio Ocampo][EO] (Universidad del CEMA)
 
 
 <!-- HYPERLINKS TO BOOK CHAPTERS -->
+[BC08]: <https://www.e-elgar.com/shop/usd/a-research-agenda-for-austrian-economics-9781800882256.html>
+
 [BC07]: <https://www.e-elgar.com/shop/usd/the-economics-of-blockchain-and-cryptocurrency-9781800882331.html>
 
 [BC05]: <https://www.springer.com/us/book/9783319758169?msclkid=27b03cb7844b1d1984a867a8448337af&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping%20%7C%20US&utm_term=1101200786988&utm_content=All%20eBooks#aboutBook>
