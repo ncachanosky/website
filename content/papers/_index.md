@@ -79,8 +79,8 @@ with [Gabriel J. Zanotti][GZ] (Universidad Francisco Marroquín)
 ---
 ## All Journal Articles
 
-[57] *Forthcoming*. Hermeneutics and Phenomenology in the Social Sciences: Lessons from the Austrian School of Economics Case  
-***The Review of Austrian Economics***  
+[57] 2023. [Hermeneutics and Phenomenology in the Social Sciences: Lessons from the Austrian School of Economics Case][P57]  
+***The Review of Austrian Economics***, Vol. 36, No. 3, pp. 403-415.  
 with Agustina Borella (Universidad de Buenos Aires) and [Gabriel J. Zanotti][GZ] (Universidad Austral)  
 DOI: 10.1007/s11138-021-00548-7  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3596226" class="fancy-button-blue">SSRN version</a>
@@ -464,6 +464,8 @@ with [Emilio Ocampo][EO] (Universidad del CEMA)
 
 
 <!-- HYPERLINKS TO JOURNAL ARTICLES -->
+[P57]: <https://link.springer.com/journal/11138/volumes-and-issues/36-3>
+
 [P56]: <https://www.degruyter.com/document/doi/10.1515/ev-2023-0001/html>
 
 [P55]: <https://onlinelibrary.wiley.com/doi/10.1111/coep.12595>
