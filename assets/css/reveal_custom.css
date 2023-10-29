@@ -1,15 +1,15 @@
 /*==========================================*/
-/* MSU DENVER COLORS ====================== */
+/* UTEP COLORS ============================ */
 .black{ color: black; }
-.blue{ color: #00447c; }
-.red{ color: #d11242; }
-.grey{ color: #717073; }
+.blue{ color:#041E42; }
+.red{ color: #FF8200; }
+.grey{ color: #B1B3B3; }
 .white{ color: white; }
 
 /*==========================================*/
 /* GLOBAL SETTINGS ======================== */
 .reveal {
-  font-family: "Century Schoolbook", sans;
+  font-family: "Open Sans", sans;
 }
 
 .reveal h1,
@@ -18,7 +18,7 @@
 .reveal h4,
 .reveal h5,
 .reveal h6 {
-  font-family: "Century Schoolbook", sans;
+  font-family: "Roboto Condensed", sans;
 }
 
 .reveal a {
