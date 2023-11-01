@@ -23,7 +23,7 @@ sections:
         
         **The Case for Argentina Dollarization**  
         **Dollarization as an Institutional Constraint: Lessons from Latin America**  
-        {{< icon name="calendar-check"     >}} | April 2024  
+        {{< icon name="calendar-check"     >}} | April, 2024  
         {{< icon name="clock"              >}} | 4:00PM - 6:00PM (local time)  
         {{< icon name="map"                >}} | [Association for Private Enterprise Education](https://www.apee.org/event/b723b285-623b-4562-b60f-688de667e1b6/websitePage:2b05e7fc-6dec-4ad8-8b4b-61172a53229c?RefId=2024_CALL_FOR_PAPERS) | Las Vegas, NV  
     design:
