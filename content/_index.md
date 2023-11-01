@@ -17,7 +17,7 @@ sections:
       title: Recent & Upcoming Talks
       text: |-
         **Why and How to Dollarize Argentina**  
-        {{< icon name="calendar-check"     >}} | Thursday, 9 November 2023  
+        {{< icon name="calendar-check"     >}} | Thursday, November 9, 2023  
         {{< icon name="clock"              >}} | 4:00PM - 6:00PM (local time)  
         {{< icon name="map"                >}} | [ESEADE](https://eseade.edu.ar) | Online  
         
