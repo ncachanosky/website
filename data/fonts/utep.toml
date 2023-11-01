@@ -2,13 +2,10 @@
 name = "utep"
 
 # Optional Google font URL
-google_fonts = "family=Open+Sans&Roboto+Condensed"
-
+google_fonts = "family=Roboto+Condensed:ital@0;1&family-Open+Sans"
 
 # Font families
 heading_font = "Roboto Condensed"
-
-body_font = "Open Sans"
+body_font = "Roboto Condensed"
 nav_font = "Roboto Condensed"
-
-mono_font = "Inconsolata"
+mono_font = "Roboto Condensed"

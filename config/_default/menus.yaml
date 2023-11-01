@@ -8,21 +8,24 @@ main:
     url: '#about'
     weight: 10
   - name: Papers
-    url: 'papers/'
+    url: '/papers'
     weight: 20
   - name: Books
-    url: 'books/'
+    url: '/books'
     weight: 30
-  - name: Projects
-    url: 'project'
+  - name: Blog
     weight: 40
-  - name: Blogs
-    weight: 60
-  - name: Punto de Vista Económico
-    url: 'https://puntodevistaeconomico.com/'
-    parent: 'Blogs'
-    weight: 1
-  - name: Economic Order Blog
+  - name: "Economic Order"
+    parent: Blog
     url: 'https://economicorder.substack.com/'
-    parent: 'Blogs'
+    weight: 1
+  - name: "Dolarización en Argentina"
+    parent: Blog
+    url: 'https://dolarizacionargentina.substack.com/'
     weight: 2
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70

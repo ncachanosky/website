@@ -19,7 +19,7 @@ header:
 [10] 2022. [Can Dollarization Constrain a Populist Leader? The Case of Rafael Correa in Ecuador][P53]  
 ***Journal of Economic Behavior and Organization***, Vol. 200 (August), pp. 430-442.  
 DOI: 10.1016/j.jebo.2022.06.006  
-with [Alexander W. Salter][AS] (Texas Tech University) and Ignacio Savanti (Universidad del CEMA)
+with [Alexander W. Salter][AS] (Texas Tech University) and Ignacio Savanti (Universidad del CEMA)  
 <a href="https://papers.ssrn.com/abstract=3988413" class="fancy-button-blue">SSRN version</a>
 
 [09] 2021. [The Federal Reserve's Response to the Covid-19 Contraction: An Initial Appraisal][P49]  
@@ -31,7 +31,7 @@ with [Bryan P. Cutsinger][BC] (Angelo State University), [Thomas L. Hogan][TH] (
 [08] 2021. [Immigration and Institutional Change: Did Mass Immigration Cause Peronism in Argentina?][P48]  
 ***Journal of Economic Behavior and Organization***, Vol. 184 (April), pp. 1-15  
 DOI: 10.1016/j.jebo.2021.01.027  
-with [Alexandre Padilla][AP] (Metropolitan State University of Denver) and [Alejandro O. Gomez][AG] (UCEMA)
+with [Alexandre Padilla][AP] (Metropolitan State University of Denver) and [Alejandro O. Gomez][AG] (UCEMA)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3764194" class="fancy-button-blue">SSRN version</a>
 
 [07] 2021. [Why Did Inflation Targeting Fail in Argentina?][P47]  
@@ -131,7 +131,7 @@ with [Bryan P. Cutsinger][BC] (Angelo State University), [Thomas L. Hogan][TH] (
 [48] 2021. [Immigration and Institutional Change: Did Mass Immigration Cause Peronism in Argentina?][P48]  
 ***Journal of Economic Behavior and Organization***, Vol. 184 (April), pp. 1-15  
 DOI: 10.1016/j.jebo.2021.01.027  
-with [Alexandre Padilla][AP] (Metropolitan State University of Denver) and [Alejandro O. Gomez][AG] (UCEMA)
+with [Alexandre Padilla][AP] (Metropolitan State University of Denver) and [Alejandro O. Gomez][AG] (UCEMA)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3764194" class="fancy-button-blue">SSRN version</a>
 
 [47] 2021. [Why Did Inflation Targeting Fail in Argentina?][P47]  
