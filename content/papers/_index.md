@@ -36,7 +36,7 @@ with [Alexandre Padilla][AP] (Metropolitan State University of Denver) and [Alej
 
 [07] 2021. [Why Did Inflation Targeting Fail in Argentina?][P47]  
 ***Quarterly Review of Economics and Finance***, Vol. 80 (May), pp. 102-116  
-DOI: 10.1016/j.qref.2021.01.014
+DOI: 10.1016/j.qref.2021.01.014  
 with Federico Julián Ferrelli Mazza (ESEADE)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3384731" class="fancy-button-blue">SSRN version</a>
 
@@ -136,7 +136,7 @@ with [Alexandre Padilla][AP] (Metropolitan State University of Denver) and [Alej
 
 [47] 2021. [Why Did Inflation Targeting Fail in Argentina?][P47]  
 ***Quarterly Review of Economics and Finance***, Vol. 80 (May), pp. 102-116  
-DOI: 10.1016/j.qref.2021.01.014
+DOI: 10.1016/j.qref.2021.01.014  
 with Federico Julián Ferrelli Mazza (ESEADE)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3384731" class="fancy-button-blue">SSRN version</a>
 
