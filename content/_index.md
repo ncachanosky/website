@@ -25,6 +25,13 @@ sections:
       columns: 2  
   - block: markdown
     content:
+      title: My books
+      text: |- 
+        {{< figure src="all_books.png" >}}
+    design:
+      columns: 2  
+  - block: markdown
+    content:
       title: Other academic positions
       text: |-
         ## Institutions
