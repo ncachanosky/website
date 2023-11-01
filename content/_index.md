@@ -12,15 +12,20 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: markdown
-    demo: "true"
+#    demo: "true"
     content:
       title: Recent & Upcoming Talks
       text: |-
-        ### **Why and How to Dollarize Argentina**
-        {{< icon name="calendar-check"     >}} | Thursday, 9 Nov 2023  
+        **Why and How to Dollarize Argentina**  
+        {{< icon name="calendar-check"     >}} | Thursday, 9 November 2023  
         {{< icon name="clock"              >}} | 4:00PM - 6:00PM (local time)  
         {{< icon name="map"                >}} | [ESEADE](https://eseade.edu.ar) | Online  
-        {{< icon name="file-powerpoint"    >}} | [Download slides](uploads/UCEMA%20-%202021%20-%20An%20Economic%20Analysis%20of%20Bitcoin.pdf)
+        
+        **The Case for Argentina Dollarization**  
+        **Dollarization as an Institutional Constraint: Lessons from Latin America**  
+        {{< icon name="calendar-check"     >}} | April 2024  
+        {{< icon name="clock"              >}} | 4:00PM - 6:00PM (local time)  
+        {{< icon name="map"                >}} | [Association for Private Enterprise Education](https://www.apee.org/event/b723b285-623b-4562-b60f-688de667e1b6/websitePage:2b05e7fc-6dec-4ad8-8b4b-61172a53229c?RefId=2024_CALL_FOR_PAPERS) | Las Vegas, NV  
     design:
       columns: 2  
   - block: markdown
