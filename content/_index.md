@@ -18,7 +18,7 @@ sections:
       text: |-
         **Why and How to Dollarize Argentina**  
         {{< icon name="calendar-check"     >}} | Friday, March 22, 2024  
-        {{< icon name="map"                >}} | [Austrian Econmics Research Coference | F. A. Hayek Memorial Lecture](https://mises.org/events/austrian-economics-research-conference-2024) | Auburn, AL  
+        {{< icon name="map"                >}} | [Austrian Econmics Research Coference F. A. Hayek Memorial Lecture](https://mises.org/events/austrian-economics-research-conference-2024) | Auburn, AL  
         
         **The Case for Argentina Dollarization**  
         **Dollarization as an Institutional Constraint: Lessons from Latin America**  
