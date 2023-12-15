@@ -17,15 +17,17 @@ sections:
       title: Recent & Upcoming Talks
       text: |-
         **Why and How to Dollarize Argentina**  
-        {{< icon name="calendar-check"     >}} | Thursday, November 9, 2023  
-        {{< icon name="clock"              >}} | 4:00PM - 6:00PM (local time)  
-        {{< icon name="map"                >}} | [ESEADE](https://eseade.edu.ar) | Online  
+        {{< icon name="calendar-check"     >}} | Friday, March 22, 2024  
+        {{< icon name="map"                >}} | [Austrian Econmics Research Coference | F. A. Hayek Memorial Lecture](https://mises.org/events/austrian-economics-research-conference-2024) | Auburn, AL  
         
         **The Case for Argentina Dollarization**  
         **Dollarization as an Institutional Constraint: Lessons from Latin America**  
         {{< icon name="calendar-check"     >}} | April, 2024  
-        {{< icon name="clock"              >}} | 4:00PM - 6:00PM (local time)  
-        {{< icon name="map"                >}} | [Association for Private Enterprise Education](https://www.apee.org/event/b723b285-623b-4562-b60f-688de667e1b6/websitePage:2b05e7fc-6dec-4ad8-8b4b-61172a53229c?RefId=2024_CALL_FOR_PAPERS) | Las Vegas, NV  
+        {{< icon name="map"                >}} | [Association for Private Enterprise Education](https://www.apee.org/event/b723b285-623b-4562-b60f-688de667e1b6/websitePage:2b05e7fc-6dec-4ad8-8b4b-61172a53229c?RefId=2024_CALL_FOR_PAPERS) | Las Vegas, NV
+        
+        ** Why and How to Dollarize Argentina**
+        {{< icon name="calendar-check"     >}} | Tuesday, April 30, 2024  
+        {{< icon name="map"                >}} | [Free Market Institute at Angelo State University](https://www.depts.ttu.edu/freemarketinstitute/fmi_asu/asu_upcoming_events.php) | Auburn, AL  
     design:
       columns: 2  
   - block: markdown
