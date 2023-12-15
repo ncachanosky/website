@@ -25,7 +25,7 @@ sections:
         {{< icon name="calendar-check"     >}} | April, 2024  
         {{< icon name="map"                >}} | [Association for Private Enterprise Education](https://www.apee.org/event/b723b285-623b-4562-b60f-688de667e1b6/websitePage:2b05e7fc-6dec-4ad8-8b4b-61172a53229c?RefId=2024_CALL_FOR_PAPERS) | Las Vegas, NV
         
-        ** Why and How to Dollarize Argentina**
+        **Why and How to Dollarize Argentina**  
         {{< icon name="calendar-check"     >}} | Tuesday, April 30, 2024  
         {{< icon name="map"                >}} | [Free Market Institute at Angelo State University](https://www.depts.ttu.edu/freemarketinstitute/fmi_asu/asu_upcoming_events.php) | Auburn, AL  
     design:
