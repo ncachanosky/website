@@ -84,4 +84,4 @@ In this website you can find information about my research. I also blog at [Econ
 
 ---
 
-{{<icon name="file-download" pack="fas">}} [Download my CV](static/uploads/resume.pdf)
+{{<icon name="file-download" pack="fas">}} [Download my CV](uploads/resume.pdf)
