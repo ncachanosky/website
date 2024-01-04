@@ -103,7 +103,7 @@ with [Adrián O. Ravier][AR] (ESEADE)
 
 [53] 2022. [Can Dollarization Constrain a Populist Leader? The Case of Rafael Correa in Ecuador][P53]  
 ***Journal of Economic Behavior and Organization***, Vol. 200 (August), pp. 430-442.  
-with [Alexander W. Salter][AS] (Texas Tech University) and Ignacio Savanti (Universidad del CEMA)
+with [Alexander W. Salter][AS] (Texas Tech University) and Ignacio Savanti (Universidad del CEMA)  
 <a href="https://papers.ssrn.com/abstract=3988413" class="fancy-button-blue">SSRN version</a>
 
 [52] 2022. [The Upper Turning Point in the Austrian Business Cycle Theory][P52]  
