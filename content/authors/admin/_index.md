@@ -75,7 +75,7 @@ social:
 highlight_name: true
 ---
 
-I'm Associate Professor of Economics and Director of the [Center for Free Enterprise](https://www.utep.edu/business/c4fe/) at [University of Texas at El Paso](https://www.utep.edu/), Senior Fellow at the [American Institute of Economic Research](http://www.aier.org/) (AIER), and Fellow of the [UCEMA Friedman-Hayek Center for the Study of a Free Society](https://ucema.edu.ar/friedman-hayek-center). I also serve as co-editor of [LIBERTAS: Segunda Época](http://www.journallibertas.com/). I'm past president of the [Association of Private Enterprise Education](https://www.apee.org/) (APEE) and former director of [The Mont Pelerin Society](https://www.montpelerin.org/) (MPS).
+I'm Associate Professor of Economics and Director of the [Center for Free Enterprise](https://www.utep.edu/business/c4fe/) at [The University of Texas at El Paso](https://www.utep.edu/), Senior Fellow at the [American Institute of Economic Research](http://www.aier.org/) (AIER), and Fellow of the [UCEMA Friedman-Hayek Center for the Study of a Free Society](https://ucema.edu.ar/friedman-hayek-center). I also serve as Associate Editor of the [Southern Economic Journal](https://onlinelibrary.wiley.com/journal/23258012). I'm past president of the [Association of Private Enterprise Education](https://www.apee.org/) (APEE) and former director of [The Mont Pelerin Society](https://www.montpelerin.org/) (MPS).
 {style="text-align: justify;"}
 
 In this website you can find information about my research. I also blog at [Economic Order](https://economicorder.substack.com/).
