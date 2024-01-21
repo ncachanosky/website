@@ -17,6 +17,10 @@ sections:
       title: Recent & Upcoming Talks
       text: |-
         **Why and How to Dollarize Argentina**  
+        {{< icon name="calendar-check"     >}} | Wednesday, February 21, 2024  
+        {{< icon name="map"                >}} | [Denver Association of Business Economists](http://www.dabedenver.org/dabe.nsf/DocView?Open&UNID=23f4005bb4c351b585258aa3006e4053&fbclid=IwAR1bstTDYShsNrLw_CiO9-tPsfr_FvaEsvWDzbykpfvlb___5l3o_R5R-Ms) | Denver, CO  
+
+        **Why and How to Dollarize Argentina**  
         {{< icon name="calendar-check"     >}} | Friday, March 22, 2024  
         {{< icon name="map"                >}} | [Austrian Econmics Research Coference F. A. Hayek Memorial Lecture](https://mises.org/events/austrian-economics-research-conference-2024) | Auburn, AL  
         
