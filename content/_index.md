@@ -31,7 +31,7 @@ sections:
         
         **Why and How to Dollarize Argentina**  
         {{< icon name="calendar-check"     >}} | Tuesday, April 30, 2024  
-        {{< icon name="map"                >}} | [Free Market Institute at Angelo State University](https://www.depts.ttu.edu/freemarketinstitute/fmi_asu/asu_upcoming_events.php) | Auburn, AL  
+        {{< icon name="map"                >}} | [Free Market Institute at Angelo State University](https://www.depts.ttu.edu/freemarketinstitute/fmi_asu/asu_upcoming_events.php) | San Angelo, TX  
     design:
       columns: 2  
   - block: markdown
