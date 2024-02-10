@@ -85,13 +85,17 @@ sections:
         {{< icon name="book-reader"    >}} | Co-Editor  
         {{< icon name="calendar-check" >}} | 2016 - present
 
-        ### [**The Review of Austrian Economics**](https://www.springer.com/journal/11138)
-        {{< icon name="book-reader"    >}} | Editorial Board  
-        {{< icon name="calendar-check" >}} | 2019 - present
+        ### [**Southern Economic Journal**](https://onlinelibrary.wiley.com/journal/23258012)
+        {{< icon name="book-reader"    >}} | Associate Editor  
+        {{< icon name="calendar-check" >}} | 2024 - present
 
         ### [**The Economists' Voice**](https://www.degruyter.com/view/journals/ev/ev-overview.xml?language=en)
         {{< icon name="book-reader"    >}} | Editorial Board  
         {{< icon name="calendar-check" >}} | 2021 - present
+      
+        ### [**The Review of Austrian Economics**](https://www.springer.com/journal/11138)
+        {{< icon name="book-reader"    >}} | Editorial Board  
+        {{< icon name="calendar-check" >}} | 2019 - present
     design:
       columns: 2
 ---
