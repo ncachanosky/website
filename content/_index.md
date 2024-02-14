@@ -24,8 +24,7 @@ sections:
         {{< icon name="calendar-check"     >}} | Friday, March 22, 2024  
         {{< icon name="map"                >}} | [Austrian Econmics Research Coference F. A. Hayek Memorial Lecture](https://mises.org/events/austrian-economics-research-conference-2024) | Auburn, AL  
         
-        **The Case for Argentina Dollarization**  
-        **Dollarization as an Institutional Constraint: Lessons from Latin America**  
+        **Dollarization in Argentina: Potential and Prospects**  
         {{< icon name="calendar-check"     >}} | April, 2024  
         {{< icon name="map"                >}} | [Association for Private Enterprise Education](https://www.apee.org/event/b723b285-623b-4562-b60f-688de667e1b6/websitePage:2b05e7fc-6dec-4ad8-8b4b-61172a53229c?RefId=2024_CALL_FOR_PAPERS) | Las Vegas, NV
         
