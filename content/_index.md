@@ -16,21 +16,13 @@ sections:
     content:
       title: Recent & Upcoming Talks
       text: |-
-        **Why and How to Dollarize Argentina**  
-        {{< icon name="calendar-check"     >}} | Wednesday, February 21, 2024  
-        {{< icon name="map"                >}} | [Denver Association of Business Economists](http://www.dabedenver.org/dabe.nsf/DocView?Open&UNID=23f4005bb4c351b585258aa3006e4053&fbclid=IwAR1bstTDYShsNrLw_CiO9-tPsfr_FvaEsvWDzbykpfvlb___5l3o_R5R-Ms) | Denver, CO  
+        **Argentina's Economic Opportunity? Milei's Policies Prospects**  
+        {{< icon name="calendar-check"     >}} | Tuesday, June 18, 2024  
+        {{< icon name="map"                >}} | [The Bastiat Society of Nashville](https://www.aier.org/chapter/bastiat-society-of-nashville/) | Nashville, TN 
 
-        **Why and How to Dollarize Argentina**  
-        {{< icon name="calendar-check"     >}} | Friday, March 22, 2024  
-        {{< icon name="map"                >}} | [Austrian Econmics Research Coference F. A. Hayek Memorial Lecture](https://mises.org/events/austrian-economics-research-conference-2024) | Auburn, AL  
-        
-        **Dollarization in Argentina: Potential and Prospects**  
-        {{< icon name="calendar-check"     >}} | April, 2024  
-        {{< icon name="map"                >}} | [Association for Private Enterprise Education](https://www.apee.org/event/b723b285-623b-4562-b60f-688de667e1b6/websitePage:2b05e7fc-6dec-4ad8-8b4b-61172a53229c?RefId=2024_CALL_FOR_PAPERS) | Las Vegas, NV
-        
-        **Why and How to Dollarize Argentina**  
-        {{< icon name="calendar-check"     >}} | Tuesday, April 30, 2024  
-        {{< icon name="map"                >}} | [Free Market Institute at Angelo State University](https://www.depts.ttu.edu/freemarketinstitute/fmi_asu/asu_upcoming_events.php) | San Angelo, TX  
+        **Argentina's Economic Opportunity? Milei's Policies Prospects**  
+        {{< icon name="calendar-check"     >}} | Thursday, September 8, 2024  
+        {{< icon name="map"                >}} | [Free Market Institute at Texas Tech University](https://www.depts.ttu.edu/freemarketinstitute/) | Lubbock, TX 
     design:
       columns: 2  
   - block: markdown
