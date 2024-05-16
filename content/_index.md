@@ -23,6 +23,10 @@ sections:
         **Argentina's Economic Opportunity? Milei's Policies Prospects**  
         {{< icon name="calendar-check"     >}} | Thursday, September 8, 2024  
         {{< icon name="map"                >}} | [Free Market Institute at Texas Tech University](https://www.depts.ttu.edu/freemarketinstitute/) | Lubbock, TX 
+
+        **What Would an Audit of the Fed Shor?**  
+        {{< icon name="calendar-check"     >}} | Sunday, November 10, 2024  
+        {{< icon name="map"                >}} | [Hillsdale College](https://www.hillsdale.edu/educational-outreach/center-for-constructive-alternatives/) | Hillsdale, MI  
     design:
       columns: 2  
   - block: markdown
