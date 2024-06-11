@@ -454,12 +454,15 @@ In Ravier, A. (ed.) ***Lecturas de Historia del Pensamiento Económico***. Madri
 
 ---
 ## Working Papers
+[03] 2024. [Dollarization and Default Risk: A Brief Note][WP03]  
+C4FE Working Paper Series 2024/06
+
 [02] 2023. [Dollarization Dynamics: A Comment][WP02]  
-Universidad del CEMA. Documentos de Trabajo 855  
+C4FE Working Paper Series 2024/02
 with [Emilio Ocampo][EO] (Universidad del CEMA)
 
 [01] 2023. [Is Inflation Caused by Conflict][WP01]  
-Universidad del CEMA. Documentos de Trabajo 852  
+C4FE Working Paper Series 2024/01
 with [Emilio Ocampo][EO] (Universidad del CEMA)
 
 
@@ -607,6 +610,8 @@ with [Emilio Ocampo][EO] (Universidad del CEMA)
 [BC01]: <http://unioneditorial.es/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=237&category_id=17&option=com_virtuemart&Itemid=22>
 
 <!-- HYPERLINKS TO JOURNAL ARTICLES -->
+[WP03]: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4862007>
+
 [WP02]: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4476965>
 
 [WP01]: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437371>
