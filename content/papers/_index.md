@@ -80,8 +80,9 @@ with [Gabriel J. Zanotti][GZ] (Universidad Francisco Marroquín)
 ## All Journal Articles
 
 [58] *Forthcoming.* Did Dollarization Help Ecuador?  
-**Scottish Journal of Political Economy**
-with with [Emilio Ocampo][EO] (Universidad del CEMA), Karla C. Hernández (Center for Free Enterprise), and John Ramseur (Metropolitan State University of Denver)
+***Scottish Journal of Political Economy***
+with with [Emilio Ocampo][EO] (Universidad del CEMA), Karla C. Hernández (Center for Free Enterprise), and John Ramseur (Metropolitan State University of Denver)  
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678055" class="fancy-button-blue">SSRN version</a>
 
 [57] 2023. [Hermeneutics and Phenomenology in the Social Sciences: Lessons from the Austrian School of Economics Case][P57]  
 ***The Review of Austrian Economics***, Vol. 36, No. 3, pp. 403-415.  
