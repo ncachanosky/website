@@ -85,7 +85,7 @@ with with [Emilio Ocampo][EO] (Universidad del CEMA), Karla C. Hernández (Cente
 DOI: 10.1111/sjpe.12397  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678055" class="fancy-button-blue">SSRN version</a>
 
-[58] 2024. [Classical Liberalism in Argentina, from 1816 to 1884][P57]  
+[58] 2024. [Classical Liberalism in Argentina, from 1816 to 1884][P58]  
 ***Econ Journal Watch***  
 with with Alejandro Gómez (Universidad del CEMA)  
 
@@ -477,6 +477,8 @@ with [Emilio Ocampo][EO] (Universidad del CEMA)
 
 
 <!-- HYPERLINKS TO JOURNAL ARTICLES -->
+[P58]: <https://econjwatch.org/articles/classical-liberalism-in-argentina-from-1816-to-1884>
+
 [P57]: <https://link.springer.com/journal/11138/volumes-and-issues/36-3>
 
 [P56]: <https://www.degruyter.com/document/doi/10.1515/ev-2023-0001/html>
