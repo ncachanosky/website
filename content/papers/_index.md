@@ -79,11 +79,15 @@ with [Gabriel J. Zanotti][GZ] (Universidad Francisco Marroquín)
 ---
 ## All Journal Articles
 
-[58] *Forthcoming.* Did Dollarization Help Ecuador?  
+[59] *Forthcoming.* Did Dollarization Help Ecuador?  
 ***Scottish Journal of Political Economy***  
 with with [Emilio Ocampo][EO] (Universidad del CEMA), Karla C. Hernández (Center for Free Enterprise), and John Ramseur (Metropolitan State University of Denver)  
 DOI: 10.1111/sjpe.12397  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678055" class="fancy-button-blue">SSRN version</a>
+
+[58] 2024. [Classical Liberalism in Argentina, from 1816 to 1884][P57]  
+***Econ Journal Watch***  
+with with Alejandro Gómez (Universidad del CEMA)  
 
 [57] 2023. [Hermeneutics and Phenomenology in the Social Sciences: Lessons from the Austrian School of Economics Case][P57]  
 ***The Review of Austrian Economics***, Vol. 36, No. 3, pp. 403-415.  
