@@ -15,36 +15,34 @@ header:
 
 --- 
 ## Selected Journal Articles
+[10] *Forthcoming.* The Institutional Impact of Left-Leaning Populism in Latin America  
+***European Journal of Political Economy***  
+with [J. P. Bastos][JPB] (Texas Tech University), [Alexandre Padilla][AP] (Metropolitan State University of Denver), Karla C. Hernández (The University of Texas at El Paso), and John Ramseur (Metropolitan State University of Denver)  
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5005108" class="fancy-button-blue">SSRN version</a>
 
-[10] 2022. [Can Dollarization Constrain a Populist Leader? The Case of Rafael Correa in Ecuador][P53]  
+[09] 2022. [Can Dollarization Constrain a Populist Leader? The Case of Rafael Correa in Ecuador][P53]  
 ***Journal of Economic Behavior and Organization***, Vol. 200 (August), pp. 430-442.  
 DOI: 10.1016/j.jebo.2022.06.006  
 with [Alexander W. Salter][AS] (Texas Tech University) and Ignacio Savanti (Universidad del CEMA)  
 <a href="https://papers.ssrn.com/abstract=3988413" class="fancy-button-blue">SSRN version</a>
 
-[09] 2021. [The Federal Reserve's Response to the Covid-19 Contraction: An Initial Appraisal][P49]  
+[08] 2021. [The Federal Reserve's Response to the Covid-19 Contraction: An Initial Appraisal][P49]  
 ***Southern Economic Journal***, Vol. 87, No. 4, pp. 1152-1174    
 DOI: 10.1002/soej.12498  
 with [Bryan P. Cutsinger][BC] (Angelo State University), [Thomas L. Hogan][TH] (American Institute for Economic Research), [William J. Luther][WL] (Florida Atlantic University), and [Alexander W. Salter][AS] (Texas Tech University)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3726345" class="fancy-button-blue">SSRN version</a>
 
-[08] 2021. [Immigration and Institutional Change: Did Mass Immigration Cause Peronism in Argentina?][P48]  
+[0&] 2021. [Immigration and Institutional Change: Did Mass Immigration Cause Peronism in Argentina?][P48]  
 ***Journal of Economic Behavior and Organization***, Vol. 184 (April), pp. 1-15  
 DOI: 10.1016/j.jebo.2021.01.027  
 with [Alexandre Padilla][AP] (Metropolitan State University of Denver) and [Alejandro O. Gomez][AG] (UCEMA)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3764194" class="fancy-button-blue">SSRN version</a>
 
-[07] 2021. [Why Did Inflation Targeting Fail in Argentina?][P47]  
+[06] 2021. [Why Did Inflation Targeting Fail in Argentina?][P47]  
 ***Quarterly Review of Economics and Finance***, Vol. 80 (May), pp. 102-116  
 DOI: 10.1016/j.qref.2021.01.014  
 with Federico Julián Ferrelli Mazza (ESEADE)  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3384731" class="fancy-button-blue">SSRN version</a>
-
-[06] 2018. [Substance and Semantics: The Question of Capital][P35]  
-***Journal of Economic Behavior and Organization***, Vol. 150, No. 4, pp, 423-432  
-DOI: 10.1016/j.jebo.2018.01.024  
-with [Peter Lewin][PL] (University of Texas at Dallas)  
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2613469" class="fancy-button-blue">SSRN version</a>
 
 [05] 2018. [The Average Period of Production: History of an Idea][P33]  
 ***Journal of the History of Economic Thought***, Vol. 40, No.1, pp. 81-98  
@@ -79,9 +77,14 @@ with [Gabriel J. Zanotti][GZ] (Universidad Francisco Marroquín)
 ---
 ## All Journal Articles
 
+[60] *Forthcoming.* The Institutional Impact of Left-Leaning Populism in Latin America  
+***European Journal of Political Economy***  
+with [J. P. Bastos][JPB] (Texas Tech University), [Alexandre Padilla][AP] (Metropolitan State University of Denver), Karla C. Hernández (The University of Texas at El Paso), and John Ramseur (Metropolitan State University of Denver)  
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5005108" class="fancy-button-blue">SSRN version</a>
+
 [59] *Forthcoming.* Did Dollarization Help Ecuador?  
 ***Scottish Journal of Political Economy***  
-with with [Emilio Ocampo][EO] (Universidad del CEMA), Karla C. Hernández (Center for Free Enterprise), and John Ramseur (Metropolitan State University of Denver)  
+with [Emilio Ocampo][EO] (Universidad del CEMA), Karla C. Hernández (The University of Texas at El Paso), and John Ramseur (Metropolitan State University of Denver)  
 DOI: 10.1111/sjpe.12397  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678055" class="fancy-button-blue">SSRN version</a>
 
@@ -621,12 +624,14 @@ with [Emilio Ocampo][EO] (Universidad del CEMA)
 
 [BC01]: <http://unioneditorial.es/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=237&category_id=17&option=com_virtuemart&Itemid=22>
 
+
 <!-- HYPERLINKS TO JOURNAL ARTICLES -->
 [WP03]: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4862007>
 
 [WP02]: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4476965>
 
 [WP01]: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437371>
+
 
 <!-- HYPERLINKS TO CO-AUTHORS -->
 <!-- Braun, Eduard -->
@@ -673,3 +678,6 @@ with [Emilio Ocampo][EO] (Universidad del CEMA)
 
 <!-- Zanotti, Gabriel -->
 [GZ]: <http://gabrielzanotti.com/>
+
+<!-- J. P. Bastos -->
+[JPB]: <https://www.jpmvbastos.com/>
