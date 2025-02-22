@@ -11,32 +11,16 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: markdown
+#  - block: markdown
 #    demo: "true"
-    content:
-      title: Recent & Upcoming Talks
-      text: |-
-        **Argentina's Transformation Opportunity? Milei's Economics and Prospects**  
-        {{< icon name="calendar-check"     >}} | Thursday, September 5, 2024  
-        {{< icon name="map"                >}} | [Free Market Institute at Texas Tech University](https://www.depts.ttu.edu/freemarketinstitute/) | Lubbock, TX  
-
-        **Dollarization in Argentina: Potential and Prospects**  
-        {{< icon name="calendar-check"     >}} | September 22-26, 2024  
-        {{< icon name="map"                >}} | [The Mont Pelerin Society](https://mpsnewdelhi.org/) | New Delhi, India
-
-        **Dollarization in Argentina: Potential and Prospects**  
-        {{< icon name="calendar-check"     >}} | October 16, 2024  
-        {{< icon name="map"                >}} | Florida Atlantic University | Boca Raton, FL
-        
-        **Argentina's Transformation Opportunity? Milei's Economics and Prospects**  
-        {{< icon name="calendar-check"     >}} | October 16, 2024  
-        {{< icon name="map"                >}} | The Bastiat Society of Ft. Lauderdale | Ft. Lauderdale, FL
-        
-        **What Would an Audit of the Fed Show?**  
-        {{< icon name="calendar-check"     >}} | Sunday, November 10, 2024  
-        {{< icon name="map"                >}} | [Center for Constructive Alternatives at Hillsdale College](https://www.hillsdale.edu/educational-outreach/center-for-constructive-alternatives/) | Hillsdale, MI
-    design:
-      columns: 2  
+#    content:
+#      title: Recent & Upcoming Talks
+#      text: |-
+#        **What Would an Audit of the Fed Show?**  
+#        {{< icon name="calendar-check"     >}} | Sunday, November 10, 2024  
+#        {{< icon name="map"                >}} | [Center for Constructive Alternatives at Hillsdale College](https://www.hillsdale.edu/#educational-outreach/center-for-constructive-alternatives/) | Hillsdale, MI
+#    design:
+#      columns: 2  
   - block: markdown
     content:
       title: My books

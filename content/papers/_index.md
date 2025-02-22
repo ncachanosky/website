@@ -77,19 +77,25 @@ with [Gabriel J. Zanotti][GZ] (Universidad Francisco Marroquín)
 ---
 ## All Journal Articles
 
-[60] *Forthcoming.* The Institutional Impact of Left-Leaning Populism in Latin America  
+[61] *Forthcoming.* The Political Economy of Populism Regime Length  
 ***European Journal of Political Economy***  
+with [J. P. Bastos][JPB] (Texas Tech University), and Tomás Faintich (Universidad del CEMA)  
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445116" class="fancy-button-blue">SSRN version</a>
+
+[60] 2025. [The Institutional Impact of Left-Leaning Populism in Latin America][P60]  
+***European Journal of Political Economy***, Vol. 86, pp. 1-26.  
 with [J. P. Bastos][JPB] (Texas Tech University), [Alexandre Padilla][AP] (Metropolitan State University of Denver), Karla C. Hernández (The University of Texas at El Paso), and John Ramseur (Metropolitan State University of Denver)  
+DOI: 10.1016/j.ejpoleco.2024.102629  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5005108" class="fancy-button-blue">SSRN version</a>
 
-[59] *Forthcoming.* Did Dollarization Help Ecuador?  
-***Scottish Journal of Political Economy***  
+[59] 2025. [Did Dollarization Help Ecuador?][P59]  
+***Scottish Journal of Political Economy***, Vol. 72, No. 1, pp. 1-11  
 with [Emilio Ocampo][EO] (Universidad del CEMA), Karla C. Hernández (The University of Texas at El Paso), and John Ramseur (Metropolitan State University of Denver)  
 DOI: 10.1111/sjpe.12397  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678055" class="fancy-button-blue">SSRN version</a>
 
 [58] 2024. [Classical Liberalism in Argentina, from 1816 to 1884][P58]  
-***Econ Journal Watch***  
+***Econ Journal Watch***, Vol. 21, Issue 1, pp. 415-436.  
 with with Alejandro Gómez (Universidad del CEMA)  
 
 [57] 2023. [Hermeneutics and Phenomenology in the Social Sciences: Lessons from the Austrian School of Economics Case][P57]  
@@ -480,6 +486,10 @@ with [Emilio Ocampo][EO] (Universidad del CEMA)
 
 
 <!-- HYPERLINKS TO JOURNAL ARTICLES -->
+[P60]: <https://doi.org/10.1016/j.ejpoleco.2024.102629>
+
+[P59]: <https://onlinelibrary.wiley.com/doi/10.1111/sjpe.12397>
+
 [P58]: <https://econjwatch.org/articles/classical-liberalism-in-argentina-from-1816-to-1884>
 
 [P57]: <https://link.springer.com/journal/11138/volumes-and-issues/36-3>
