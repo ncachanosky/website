@@ -78,7 +78,7 @@ DOI: 10.1017/S1053837214000777
 ## All Journal Articles
 
 [62] *Forthcoming.* The Political Economy of Populism Regime Length  
-***European Journal of Political Economy***  
+***Constitutional Political Economy***  
 [João P. Bastos][JPB] | Nicolas Cachanosky | Tomás Faintich  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445116" class="fancy-button-blue">SSRN version</a>
 
