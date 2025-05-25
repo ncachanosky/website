@@ -77,14 +77,16 @@ DOI: 10.1017/S1053837214000777
 ---
 ## All Journal Articles
 
-[63] *Forthcoming.* Can Mises be Reconstructed Following Lakatos? Yes. Does it Mean Mises is a Conventionalist? No  
+[63] *Forthcoming.* A Lakatosian and Non-conventionalist Reconstruction of Mises  
 ***The Review of Austrian Economics***  
 [Gabriel J. Zanotti][GZ] | Agustina Borella | Nicolas Cachanosky  
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5241224" class="fancy-button-blue">SSRN version</a>
+DOI: 0.1007/s11138-025-00681-7  
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5241224" class="fancy-button-blue">SSRN version</a>  
 
 [62] *Forthcoming.* The Political Economy of Populism Regime Length  
 ***Constitutional Political Economy***  
 [João P. Bastos][JPB] | Nicolas Cachanosky | Tomás Faintich  
+DOI: 10.1007/s10602-025-09465-4  
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445116" class="fancy-button-blue">SSRN version</a>
 
 [61] 2025. [Classical Liberalism in Argentina, from 1884 to 2023][P61]  
