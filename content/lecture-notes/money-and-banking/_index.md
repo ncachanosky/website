@@ -1,12 +1,9 @@
 ---
 title: "Money and Banking"
 type: book  # Do not modify.
+show_date: false
 ---
 
 ---
-
-{{% callout warning %}}
-Content under development.
-{{% /callout %}}
 
 {{< list_children >}}
